@@ -1,0 +1,361 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discord.js",
+          "description": "A Node.js library for interacting with the Discord API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:10:25Z",
+            "owner": "discordjs",
+            "repo": "discord.js",
+            "stars": 26781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "steam",
+          "description": "A Python library for interacting with various parts of Steam.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T17:58:40Z",
+            "owner": "ValvePython",
+            "repo": "steam",
+            "stars": 1278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SteamUser",
+          "description": "A Node.js library for interacting with the Steam network via the Steam client protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-04T11:57:18Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steam-user",
+            "stars": 1112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steam Community",
+          "description": "A Node.js library for interacting with the Steam Community website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-13T16:52:05Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steamcommunity",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HLTV",
+          "description": "A Node.js library for interacting with the HLTV API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-03T23:24:53Z",
+            "owner": "gigobyte",
+            "repo": "HLTV",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steam TOTP",
+          "description": "A Node.js library for generating Steam-style 2FA codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-15T06:55:33Z",
+            "owner": "DoctorMcKay",
+            "repo": "node-steam-totp",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blizzard.js",
+          "description": "A Node.js library for interacting with the Blizzard Community Platform API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-30T11:32:39Z",
+            "owner": "benweier",
+            "repo": "blizzard.js",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "valorant.js",
+          "description": "A Node.js library for interacting with the VALORANT APIs used in game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-16T06:28:21Z",
+            "owner": "liamcottle",
+            "repo": "valorant.js",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liquipediapy",
+          "description": "A Python library for interacting with the Liquipedia API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T05:45:34Z",
+            "owner": "c00kie17",
+            "repo": "liquipediapy",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "SteamID - A library for manipulating Steam IDs.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Node.js",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-10-20T14:47:07Z",
+                "owner": "DoctorMcKay",
+                "repo": "node-steamid",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2021-09-10T03:43:42Z",
+                "owner": "DoctorMcKay",
+                "repo": "php-steamid",
+                "stars": 11
+              }
+            }
+          ]
+        }
+      ],
+      "title": "APIs & Web Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "demoinfocs-golang",
+          "description": "A Go library for parsing and analyzing CS:GO demos (ie. replays.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T11:18:29Z",
+            "owner": "markus-wa",
+            "repo": "demoinfocs-golang",
+            "stars": 1048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clarity",
+          "description": "A Java library for parsing CS:GO and Dota 2 replays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-22T06:34:50Z",
+            "owner": "skadistats",
+            "repo": "clarity",
+            "stars": 758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awpy",
+          "description": "A Python library for parsing, analyzing, and visualizing CS:GO data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T21:08:30Z",
+            "owner": "pnxenopoulos",
+            "repo": "awpy",
+            "stars": 608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cassiopeia",
+          "description": "A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T03:35:39Z",
+            "owner": "meraki-analytics",
+            "repo": "cassiopeia",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rattletrap",
+          "description": "A Haskell library for parsing and generating Rocket League replays.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Haskell",
+            "last_commit": "2025-08-11T18:20:16Z",
+            "owner": "tfausak",
+            "repo": "rattletrap",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boxcars",
+          "description": "A Rust library for parsing Rocket League replays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-10T03:16:49Z",
+            "owner": "nickbabcock",
+            "repo": "boxcars",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "Data parsing and analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "brackets-manager.js",
+          "description": "A JavaScript library to manage tournament brackets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-17T21:34:39Z",
+            "owner": "Drarig29",
+            "repo": "brackets-manager.js",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brackets-viewer.js",
+          "description": "A JavaScript library to display tournament brackets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-17T21:36:08Z",
+            "owner": "Drarig29",
+            "repo": "brackets-viewer.js",
+            "stars": 231
+          }
+        }
+      ],
+      "title": "Tournaments management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "valorant-api-docs",
+          "description": "An automatically generated documentation of Valorant internal API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-20T05:09:17Z",
+            "owner": "techchrism",
+            "repo": "valorant-api-docs",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rift Explorer",
+          "description": "An automatically generated documentation of Riot Games LCU API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-03-03T05:40:03Z",
+            "owner": "Pupix",
+            "repo": "rift-explorer",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BNETDocs",
+          "description": "A documentation and discussion website for Blizzard and Battle.net protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-21T13:33:54Z",
+            "owner": "BNETDocs",
+            "repo": "bnetdocs-web",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Unofficial documentation"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:24:39.499Z",
+    "original_repository": "Strift/awesome-esports",
+    "original_repository_sha": "e3b2e6cae67ebf985afee87d6074bae55ac66531",
+    "enhanced_repository": "enhansome/enhansome-esports",
+    "enhanced_repository_description": null,
+    "title": "Awesome Esports with stars"
+  }
+}
