@@ -86,7 +86,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Dota 2**
 
-* [Open Dota](https://github.com/odota/core) ⭐ 1,623 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-15 - A website for Dota 2 esports stats.
+* [Open Dota](https://github.com/odota/core) ⭐ 1,624 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-16 - A website for Dota 2 esports stats.
 
 **League of Legends**
 
@@ -96,7 +96,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ## Education
 
-* [League of Legends Analytics](https://github.com/FloPrm/lol_analytics) ⭐ 91 | 🐛 0 | 📅 2025-03-04 - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
+* [League of Legends Analytics](https://github.com/FloPrm/lol_analytics) ⭐ 92 | 🐛 0 | 📅 2025-03-04 - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
 
 ## Contributing
 
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
