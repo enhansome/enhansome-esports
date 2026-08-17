@@ -25,9 +25,9 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,785 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-14 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,788 | 🐛 156 | 🌐 TypeScript | 📅 2026-08-17 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,278 | 🐛 62 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
-* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,112 | 🐛 62 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
+* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,112 | 🐛 64 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 577 | 🐛 47 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
 * [HLTV](https://github.com/gigobyte/HLTV) ⭐ 495 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
 * [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 257 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
@@ -35,7 +35,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 * [valorant.js](https://github.com/liamcottle/valorant.js) ⭐ 109 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-16 - A Node.js library for interacting with the VALORANT APIs used in game.
 * [liquipediapy](https://github.com/c00kie17/liquipediapy) ⭐ 70 | 🐛 7 | 🌐 Python | 📅 2026-04-27 - A Python library for interacting with the Liquipedia API.
 * SteamID - A library for manipulating Steam IDs.
-  * [Node.js](https://github.com/DoctorMcKay/node-steamid) ⭐ 74 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-20
+  * [Node.js](https://github.com/DoctorMcKay/node-steamid) ⭐ 75 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-20
   * [PHP](https://github.com/DoctorMcKay/php-steamid) ⭐ 11 | 🐛 0 | 🌐 PHP | 📅 2021-09-10
 
 ### Authentication
@@ -70,7 +70,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 > Community-maintained documentation of editor APIs.
 
-* [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) ⭐ 591 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-20 - An automatically generated documentation of Valorant internal API.
+* [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) ⭐ 592 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-20 - An automatically generated documentation of Valorant internal API.
 * [Rift Explorer](https://github.com/Pupix/rift-explorer) ⭐ 564 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - An automatically generated documentation of Riot Games LCU API.
 * [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) ⭐ 36 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-21 - A documentation and discussion website for Blizzard and Battle.net protocols.
 
@@ -96,7 +96,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ## Education
 
-* [League of Legends Analytics](https://github.com/FloPrm/lol_analytics) ⭐ 92 | 🐛 0 | 📅 2025-03-04 - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
+* [League of Legends Analytics](https://github.com/FloPrm/lol_analytics) ⭐ 91 | 🐛 0 | 📅 2025-03-04 - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
 
 ## Contributing
 
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
