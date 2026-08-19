@@ -25,7 +25,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,789 | 🐛 156 | 🌐 TypeScript | 📅 2026-08-17 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,790 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-17 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,279 | 🐛 62 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,113 | 🐛 64 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 577 | 🐛 47 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
@@ -57,8 +57,8 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Tournaments management
 
-* [brackets-manager.js](https://github.com/Drarig29/brackets-manager.js) ⭐ 332 | 🐛 5 | 🌐 JavaScript | 📅 2026-05-17 - A JavaScript library to manage tournament brackets.
-* [brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) ⭐ 231 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-17 - A JavaScript library to display tournament brackets.
+* [brackets-manager.js](https://github.com/Drarig29/brackets-manager.js) ⭐ 333 | 🐛 5 | 🌐 JavaScript | 📅 2026-05-17 - A JavaScript library to manage tournament brackets.
+* [brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) ⭐ 231 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-17 - A JavaScript library to display tournament brackets.
 
 ## Developer tools
 
