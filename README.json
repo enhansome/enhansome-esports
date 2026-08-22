@@ -47,7 +47,7 @@
                 "last_commit": "2025-12-04T11:57:18Z",
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1116
+                "stars": 1117
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-13T16:52:05Z",
                 "owner": "DoctorMcKay",
                 "repo": "node-steamcommunity",
-                "stars": 578
+                "stars": 579
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2026-08-21T04:02:57Z",
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1048
+                "stars": 1049
               }
             },
             {
@@ -385,7 +385,7 @@
             "last_commit": "2026-01-08T19:39:25Z",
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1013
+            "stars": 1015
           }
         },
         {
@@ -400,7 +400,7 @@
             "last_commit": "2026-07-17T14:49:01Z",
             "owner": "vkaelin",
             "repo": "LeagueStats",
-            "stars": 488
+            "stars": 489
           }
         },
         {
@@ -423,7 +423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:00:17.236Z",
+    "last_updated": "2026-08-22T22:58:26.860Z",
     "original_repository": "Strift/awesome-esports",
     "original_repository_id": 412132952,
     "original_repository_sha": "e3b2e6cae67ebf985afee87d6074bae55ac66531",

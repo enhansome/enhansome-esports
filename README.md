@@ -27,8 +27,8 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 * [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,796 | 🐛 158 | 🌐 TypeScript | 📅 2026-08-17 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,279 | 🐛 62 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
-* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,116 | 🐛 64 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
-* [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 578 | 🐛 47 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
+* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,117 | 🐛 64 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
+* [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 579 | 🐛 47 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
 * [HLTV](https://github.com/gigobyte/HLTV) ⭐ 495 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
 * [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 257 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
 * [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 155 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-15 - A Node.js library for interacting with the Blizzard Community Platform API.
@@ -44,7 +44,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Data parsing and analysis
 
-* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,048 | 🐛 20 | 🌐 Go | 📅 2026-08-21 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,049 | 🐛 20 | 🌐 Go | 📅 2026-08-21 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 761 | 🐛 10 | 🌐 Java | 📅 2026-07-22 - A Java library for parsing CS:GO and Dota 2 replays.
 * [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 609 | 🐛 29 | 🌐 Python | 📅 2026-08-04 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 582 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
@@ -78,7 +78,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 > Applications and general-purpose tooling.
 
-* [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) ⭐ 34 | 🐛 9 | 📅 2024-10-05 - A database of Esports teams logos.
+* [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) ⭐ 33 | 🐛 9 | 📅 2024-10-05 - A database of Esports teams logos.
 
 **Counter-Strike: Global Offensive**
 
@@ -90,8 +90,8 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **League of Legends**
 
-* [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,013 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
-* [LeagueStats](https://github.com/vkaelin/LeagueStats) ⭐ 488 | 🐛 14 | 🌐 Vue | 📅 2026-07-17 - A website for League of Legends summoners' stats.
+* [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,015 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
+* [LeagueStats](https://github.com/vkaelin/LeagueStats) ⭐ 489 | 🐛 14 | 🌐 Vue | 📅 2026-07-17 - A website for League of Legends summoners' stats.
 * [Foldy Sheet](https://github.com/chhopsky/foldysheet) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2023-07-20 - A Python script to determine whether teams can make playoffs or not.
 
 ## Education
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
