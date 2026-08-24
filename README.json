@@ -186,6 +186,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Passport-Steam",
+              "description": "A Node.js passport authentication strategy for Steam.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3820336,
+                "language": "JavaScript",
+                "last_commit": "2026-04-02T07:52:31Z",
+                "owner": "liamcurry",
+                "repo": "passport-steam",
+                "stars": 358
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Authentication"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "demoinfocs-golang",
               "description": "A Go library for parsing and analyzing CS:GO demos (ie. replays.)",
               "children": [],
@@ -283,6 +305,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "LoL in-house bot",
+              "description": "A Discord bot handling role queue, matchmaking, and rankings for League of Legends in-house games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261678814,
+                "language": "Python",
+                "last_commit": "2022-11-22T18:03:51Z",
+                "owner": "mrtolkien",
+                "repo": "inhouse_bot",
+                "stars": 115
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Team management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "brackets-manager.js",
               "description": "A JavaScript library to manage tournament brackets.",
               "children": [],
@@ -375,6 +419,51 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Esport Team Logos",
+          "description": "A database of Esports teams logos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91762829,
+            "language": null,
+            "last_commit": "2024-10-05T06:14:05Z",
+            "owner": "lootmarket",
+            "repo": "esport-team-logos",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boltobserv",
+          "description": "An external Counter-Strike: Global Offensive radar for observers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176126920,
+            "language": "JavaScript",
+            "last_commit": "2026-05-15T08:49:49Z",
+            "owner": "boltgolt",
+            "repo": "boltobserv",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Dota",
+          "description": "A website for Dota 2 esports stats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23482820,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T18:25:36Z",
+            "owner": "odota",
+            "repo": "core",
+            "stars": 1627
+          }
+        },
+        {
+          "node_type": "item",
           "title": "LeagueDirector",
           "description": "A desktop application for staging and recording videos from League of Legends replays.",
           "children": [],
@@ -423,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:58:05.663Z",
+    "last_updated": "2026-08-24T14:39:25.902Z",
     "original_repository": "Strift/awesome-esports",
     "original_repository_id": 412132952,
     "original_repository_sha": "e3b2e6cae67ebf985afee87d6074bae55ac66531",
