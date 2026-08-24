@@ -70,7 +70,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 > Community-maintained documentation of editor APIs.
 
-* [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) ⭐ 592 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-20 - An automatically generated documentation of Valorant internal API.
+* [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) ⭐ 593 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-20 - An automatically generated documentation of Valorant internal API.
 * [Rift Explorer](https://github.com/Pupix/rift-explorer) ⭐ 564 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - An automatically generated documentation of Riot Games LCU API.
 * [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) ⭐ 36 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-21 - A documentation and discussion website for Blizzard and Battle.net protocols.
 
