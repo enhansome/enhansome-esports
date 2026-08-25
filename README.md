@@ -82,7 +82,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Counter-Strike: Global Offensive**
 
-* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 383 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
+* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 384 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
 
 **Dota 2**
 
