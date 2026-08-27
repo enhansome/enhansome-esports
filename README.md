@@ -25,7 +25,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,801 | 🐛 158 | 🌐 TypeScript | 📅 2026-08-17 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,805 | 🐛 158 | 🌐 TypeScript | 📅 2026-08-17 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,279 | 🐛 62 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,117 | 🐛 64 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 579 | 🐛 47 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
@@ -44,9 +44,9 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Data parsing and analysis
 
-* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,049 | 🐛 20 | 🌐 Go | 📅 2026-08-21 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,049 | 🐛 20 | 🌐 Go | 📅 2026-08-26 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 761 | 🐛 10 | 🌐 Java | 📅 2026-07-22 - A Java library for parsing CS:GO and Dota 2 replays.
-* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 609 | 🐛 29 | 🌐 Python | 📅 2026-08-04 - A Python library for parsing, analyzing, and visualizing CS:GO data.
+* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 610 | 🐛 29 | 🌐 Python | 📅 2026-08-04 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 582 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 * [Rattletrap](https://github.com/tfausak/rattletrap) ⚠️ Archived - A Haskell library for parsing and generating Rocket League replays.
 * [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 148 | 🐛 6 | 🌐 Rust | 📅 2026-07-10 - A Rust library for parsing Rocket League replays.
@@ -70,7 +70,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 > Community-maintained documentation of editor APIs.
 
-* [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) ⭐ 593 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-20 - An automatically generated documentation of Valorant internal API.
+* [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) ⭐ 592 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-20 - An automatically generated documentation of Valorant internal API.
 * [Rift Explorer](https://github.com/Pupix/rift-explorer) ⭐ 564 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - An automatically generated documentation of Riot Games LCU API.
 * [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) ⭐ 36 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-21 - A documentation and discussion website for Blizzard and Battle.net protocols.
 
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
