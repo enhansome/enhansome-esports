@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 40484398,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T10:13:37Z",
+                "last_commit": "2026-08-27T13:01:43Z",
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26805
-              }
+                "stars": 26801
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ValvePython",
                 "repo": "steam",
                 "stars": 1279
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2025-12-04T11:57:18Z",
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1118
-              }
+                "stars": 1117
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "DoctorMcKay",
                 "repo": "node-steamcommunity",
                 "stars": 579
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "gigobyte",
                 "repo": "HLTV",
                 "stars": 497
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-totp",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "benweier",
                 "repo": "blizzard.js",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "liamcottle",
                 "repo": "valorant.js",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "c00kie17",
                 "repo": "liquipediapy",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "group",
@@ -158,7 +167,8 @@
                     "owner": "DoctorMcKay",
                     "repo": "node-steamid",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:21:22.022Z"
                 },
                 {
                   "node_type": "item",
@@ -173,7 +183,8 @@
                     "owner": "DoctorMcKay",
                     "repo": "php-steamid",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:21:22.022Z"
                 }
               ]
             }
@@ -197,7 +208,8 @@
                 "owner": "liamcurry",
                 "repo": "passport-steam",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             }
           ],
           "description": null,
@@ -215,11 +227,12 @@
                 "archived": false,
                 "id": 83524521,
                 "language": "Go",
-                "last_commit": "2026-08-26T15:25:35Z",
+                "last_commit": "2026-08-27T23:30:42Z",
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1049
-              }
+                "stars": 1050
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "skadistats",
                 "repo": "clarity",
                 "stars": 761
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
                 "stars": 610
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "meraki-analytics",
                 "repo": "cassiopeia",
                 "stars": 582
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "tfausak",
                 "repo": "rattletrap",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "nickbabcock",
                 "repo": "boxcars",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             }
           ],
           "description": null,
@@ -316,7 +334,8 @@
                 "owner": "mrtolkien",
                 "repo": "inhouse_bot",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             }
           ],
           "description": null,
@@ -338,7 +357,8 @@
                 "owner": "Drarig29",
                 "repo": "brackets-manager.js",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             },
             {
               "node_type": "item",
@@ -353,7 +373,8 @@
                 "owner": "Drarig29",
                 "repo": "brackets-viewer.js",
                 "stars": 231
-              }
+              },
+              "first_seen": "2026-08-28T06:21:22.022Z"
             }
           ],
           "description": null,
@@ -379,7 +400,8 @@
             "owner": "techchrism",
             "repo": "valorant-api-docs",
             "stars": 592
-          }
+          },
+          "first_seen": "2026-08-28T06:21:22.022Z"
         },
         {
           "node_type": "item",
@@ -394,7 +416,8 @@
             "owner": "Pupix",
             "repo": "rift-explorer",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T06:21:22.022Z"
         },
         {
           "node_type": "item",
@@ -409,7 +432,8 @@
             "owner": "BNETDocs",
             "repo": "bnetdocs-web",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T06:21:22.022Z"
         }
       ],
       "title": "Unofficial documentation"
@@ -430,7 +454,8 @@
             "owner": "lootmarket",
             "repo": "esport-team-logos",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:21:22.022Z"
         },
         {
           "node_type": "item",
@@ -445,7 +470,8 @@
             "owner": "boltgolt",
             "repo": "boltobserv",
             "stars": 384
-          }
+          },
+          "first_seen": "2026-08-28T06:21:22.022Z"
         },
         {
           "node_type": "item",
@@ -460,7 +486,8 @@
             "owner": "odota",
             "repo": "core",
             "stars": 1627
-          }
+          },
+          "first_seen": "2026-08-28T06:21:22.022Z"
         },
         {
           "node_type": "item",
@@ -475,7 +502,8 @@
             "owner": "RiotGames",
             "repo": "leaguedirector",
             "stars": 1016
-          }
+          },
+          "first_seen": "2026-08-28T06:21:22.022Z"
         },
         {
           "node_type": "item",
@@ -490,7 +518,8 @@
             "owner": "vkaelin",
             "repo": "LeagueStats",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-28T06:21:22.022Z"
         },
         {
           "node_type": "item",
@@ -505,14 +534,15 @@
             "owner": "chhopsky",
             "repo": "foldysheet",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:21:22.022Z"
         }
       ],
       "title": "Applications & Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:31.405Z",
+    "last_updated": "2026-08-28T06:21:22.022Z",
     "original_repository_info": {
       "archived": false,
       "id": 412132952,
