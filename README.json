@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful JavaScript library for interacting with the Discord API",
+                "homepage": "https://discord.js.org",
                 "id": 40484398,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T13:01:43Z",
+                "open_issues": 159,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26801
+                "stars": 26804,
+                "topics": [
+                  "bot",
+                  "discord",
+                  "discord-api",
+                  "discord-bot",
+                  "discord-server",
+                  "discordjs",
+                  "hacktoberfest",
+                  "nodejs",
+                  "voice-support"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -28,12 +43,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "☁️ Python package for interacting with Steam",
+                "homepage": "http://steam.readthedocs.io",
                 "id": 38554391,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-23T17:58:40Z",
+                "open_issues": 62,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1279
+                "stars": 1279,
+                "topics": [
+                  "authentication",
+                  "authenticator",
+                  "hacktoberfest",
+                  "python",
+                  "steam",
+                  "steam-authenticator",
+                  "steam-client",
+                  "steam-guard-codes",
+                  "steam-web",
+                  "steamworks",
+                  "valve",
+                  "webapi"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -44,12 +77,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows interaction with the Steam network via the Steam client protocol",
+                "homepage": "https://dev.doctormckay.com/forum/7-node-steam-user/",
                 "id": 39361178,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-12-04T11:57:18Z",
+                "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1117
+                "stars": 1117,
+                "topics": [
+                  "javascript",
+                  "node",
+                  "node-steam",
+                  "steam",
+                  "steam-account",
+                  "steam-client"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -60,12 +105,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interact with various interfaces on Steam Community from Node.js",
+                "homepage": "https://dev.doctormckay.com/forum/8-node-steamcommunity/",
                 "id": 24652699,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-13T16:52:05Z",
+                "open_issues": 47,
                 "owner": "DoctorMcKay",
                 "repo": "node-steamcommunity",
-                "stars": 579
+                "stars": 579,
+                "topics": [
+                  "javascript",
+                  "node",
+                  "steam",
+                  "steam-community"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -76,12 +131,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The unofficial HLTV Node.js API",
+                "homepage": null,
                 "id": 73418144,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-03T23:24:53Z",
+                "open_issues": 15,
                 "owner": "gigobyte",
                 "repo": "HLTV",
-                "stars": 497
+                "stars": 497,
+                "topics": [
+                  "hltv",
+                  "parser",
+                  "scraper"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -92,12 +156,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight module to generate Steam-style TOTP auth codes.",
+                "homepage": "https://www.npmjs.com/package/steam-totp",
                 "id": 46543326,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-15T06:55:33Z",
+                "open_issues": 0,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-totp",
-                "stars": 257
+                "stars": 257,
+                "topics": [
+                  "javascript",
+                  "node",
+                  "steam"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -108,12 +181,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A promise-based Node.JS library for the Blizzard Battle.net Community Platform API",
+                "homepage": null,
                 "id": 70483095,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-15T14:39:05Z",
+                "open_issues": 2,
                 "owner": "benweier",
                 "repo": "blizzard.js",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "api",
+                  "battlenet",
+                  "blizzard",
+                  "diablo",
+                  "hearthstone",
+                  "promise",
+                  "starcraft",
+                  "typescript",
+                  "warcraft"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -124,12 +212,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an unofficial NodeJS library for interacting with the VALORANT API used in game.",
+                "homepage": null,
                 "id": 324908930,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-07-16T06:28:21Z",
+                "open_issues": 1,
                 "owner": "liamcottle",
                 "repo": "valorant.js",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "api",
+                  "competitive",
+                  "history",
+                  "js",
+                  "match",
+                  "nodejs",
+                  "riot",
+                  "valorant",
+                  "valorant-api"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -140,12 +243,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "api for liquipedia.net",
+                "homepage": null,
                 "id": 160369500,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-27T05:45:34Z",
+                "open_issues": 7,
                 "owner": "c00kie17",
                 "repo": "liquipediapy",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "counter-strike",
+                  "csgo",
+                  "dota",
+                  "dota2",
+                  "esports",
+                  "liquipedia",
+                  "non-official",
+                  "python3",
+                  "tournament",
+                  "unsupported"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -161,12 +280,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://www.npmjs.com/package/steamid",
                     "id": 24969834,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-10-20T14:47:07Z",
+                    "open_issues": 1,
                     "owner": "DoctorMcKay",
                     "repo": "node-steamid",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:21:22.022Z"
                 },
@@ -177,12 +301,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SteamID class for PHP",
+                    "homepage": "https://packagist.org/packages/doctormckay/steamid",
                     "id": 37502267,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2021-09-10T03:43:42Z",
+                    "open_issues": 0,
                     "owner": "DoctorMcKay",
                     "repo": "php-steamid",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:21:22.022Z"
                 }
@@ -202,12 +331,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Steam (OpenID) authentication strategy for Passport and Node.js.",
+                "homepage": null,
                 "id": 3820336,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-02T07:52:31Z",
+                "open_issues": 23,
                 "owner": "liamcurry",
                 "repo": "passport-steam",
-                "stars": 358
+                "stars": 358,
+                "topics": [
+                  "node",
+                  "openid",
+                  "passport",
+                  "steam"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             }
@@ -225,12 +364,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Counter-Strike 2 Demo Parser for Go (demoinfo)",
+                "homepage": "https://pkg.go.dev/github.com/markus-wa/demoinfocs-golang/v4/pkg/demoinfocs?tab=doc",
                 "id": 83524521,
                 "language": "Go",
-                "last_commit": "2026-08-27T23:30:42Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T14:03:54Z",
+                "open_issues": 22,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1050
+                "stars": 1050,
+                "topics": [
+                  "counter-strike",
+                  "counter-strike-2",
+                  "cs2",
+                  "csgo",
+                  "demo",
+                  "demo-parser",
+                  "demoinfo",
+                  "esports",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "parser",
+                  "replays",
+                  "source2"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -241,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comically fast Dota 2, CSGO, CS2 and Deadlock replay parser written in Java.",
+                "homepage": null,
                 "id": 15440789,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-22T06:34:50Z",
+                "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
-                "stars": 761
+                "stars": 761,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -257,12 +421,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library to parse, analyze and visualize Counter-Strike 2 data",
+                "homepage": "http://www.awpycs.com",
                 "id": 232168657,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-04T21:08:30Z",
+                "open_issues": 29,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 610
+                "stars": 610,
+                "topics": [
+                  "counter-strike",
+                  "counter-strike-global-offensive",
+                  "csgo",
+                  "esports",
+                  "python",
+                  "sports-analytics",
+                  "sports-data"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -273,12 +450,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An all-inclusive Python framework for the Riot Games League of Legends API. Cass focuses on making the data easy and fun to work with, while providing all the tools necessary to create a website or do data analysis.",
+                "homepage": null,
                 "id": 35975234,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-05T03:35:39Z",
+                "open_issues": 17,
                 "owner": "meraki-analytics",
                 "repo": "cassiopeia",
-                "stars": 582
+                "stars": 582,
+                "topics": [
+                  "api",
+                  "champion-gg-api",
+                  "league-of-legends",
+                  "python",
+                  "riot-games-api"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -289,12 +477,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":car: Parse and generate Rocket League replays.",
+                "homepage": "https://hackage.haskell.org/package/rattletrap",
                 "id": 69507319,
                 "language": "Haskell",
+                "license": "MIT",
                 "last_commit": "2025-08-11T18:20:16Z",
+                "open_issues": 0,
                 "owner": "tfausak",
                 "repo": "rattletrap",
-                "stars": 159
+                "stars": 159,
+                "topics": [
+                  "haskell",
+                  "rocket-league"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -305,12 +501,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rocket League Replay parser in Rust",
+                "homepage": "https://crates.io/crates/boxcars",
                 "id": 68257211,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-10T03:16:49Z",
+                "open_issues": 6,
                 "owner": "nickbabcock",
                 "repo": "boxcars",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "rocket-league",
+                  "rust",
+                  "serde"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             }
@@ -328,12 +533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Discord bot to handle League of Legends in-house games.",
+                "homepage": null,
                 "id": 261678814,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-22T18:03:51Z",
+                "open_issues": 2,
                 "owner": "mrtolkien",
                 "repo": "inhouse_bot",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             }
@@ -351,12 +561,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple library to manage tournament brackets (round-robin, single elimination, double elimination).",
+                "homepage": "https://drarig29.github.io/brackets-docs",
                 "id": 268850914,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-17T21:34:39Z",
+                "open_issues": 5,
                 "owner": "Drarig29",
                 "repo": "brackets-manager.js",
-                "stars": 333
+                "stars": 333,
+                "topics": [
+                  "bracket",
+                  "elimination",
+                  "esports",
+                  "gaming",
+                  "group",
+                  "hacktoberfest",
+                  "manager",
+                  "matches",
+                  "mocha-tests",
+                  "round-robin",
+                  "seeding",
+                  "sports",
+                  "tournament",
+                  "tournament-bracket",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             },
@@ -367,12 +598,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple library to display tournament brackets (round-robin, single elimination, double elimination).",
+                "homepage": "https://drarig29.github.io/brackets-docs",
                 "id": 268850050,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-17T21:36:08Z",
+                "open_issues": 6,
                 "owner": "Drarig29",
                 "repo": "brackets-viewer.js",
-                "stars": 231
+                "stars": 231,
+                "topics": [
+                  "bracket",
+                  "elimination",
+                  "esports",
+                  "gaming",
+                  "group",
+                  "hacktoberfest",
+                  "matches",
+                  "round-robin",
+                  "seeding",
+                  "sports",
+                  "tournament",
+                  "tournament-bracket",
+                  "typescript",
+                  "viewer",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
             }
@@ -394,12 +646,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically generated documentation for Valorant API endpoints the client uses internally",
+            "homepage": "https://valapidocs.techchrism.me",
             "id": 382398588,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-20T05:09:17Z",
+            "open_issues": 9,
             "owner": "techchrism",
             "repo": "valorant-api-docs",
-            "stars": 592
+            "stars": 592,
+            "topics": [
+              "valorant"
+            ]
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
         },
@@ -410,12 +669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠 Explore the API of the League of Legends client",
+            "homepage": null,
             "id": 61751916,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-03-03T05:40:03Z",
+            "open_issues": 15,
             "owner": "Pupix",
             "repo": "rift-explorer",
-            "stars": 564
+            "stars": 564,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
         },
@@ -426,12 +690,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BNETDocs, the documentation and discussion website for Blizzard protocols",
+            "homepage": "https://bnetdocs.org",
             "id": 18000918,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-21T13:33:54Z",
+            "open_issues": 13,
             "owner": "BNETDocs",
             "repo": "bnetdocs-web",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "battle-net",
+              "battlenet",
+              "blizzard",
+              "bnet",
+              "bnetdocs",
+              "bot",
+              "composer",
+              "diablo",
+              "discussion",
+              "discussion-website",
+              "documentation",
+              "game-protocols",
+              "html",
+              "php",
+              "protocol",
+              "pvpgn",
+              "starcraft",
+              "warcraft"
+            ]
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
         }
@@ -448,12 +736,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Esports Team Logos",
+            "homepage": null,
             "id": 91762829,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-05T06:14:05Z",
+            "open_issues": 9,
             "owner": "lootmarket",
             "repo": "esport-team-logos",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "esports",
+              "images",
+              "repository",
+              "team-logos",
+              "thumbnails"
+            ]
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
         },
@@ -464,12 +763,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕹️ An external CS radar made specifically for observing",
+            "homepage": null,
             "id": 176126920,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-15T08:49:49Z",
+            "open_issues": 4,
             "owner": "boltgolt",
             "repo": "boltobserv",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "cs2",
+              "csgo",
+              "electron",
+              "esports"
+            ]
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
         },
@@ -480,12 +789,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenDota: Open source Dota 2 data platform with automated replay parsing",
+            "homepage": "https://www.opendota.com",
             "id": 23482820,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T18:25:36Z",
+            "open_issues": 79,
             "owner": "odota",
             "repo": "core",
-            "stars": 1627
+            "stars": 1627,
+            "topics": [
+              "api",
+              "data",
+              "docker",
+              "dota",
+              "hacktoberfest",
+              "javascript",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
         },
@@ -496,12 +818,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "League Director is a tool for staging and recording videos from League of Legends replays",
+            "homepage": null,
             "id": 169445376,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-08T19:39:25Z",
+            "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1016
+            "stars": 1016,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
         },
@@ -512,12 +839,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📈 League of Legends Stats Web App",
+            "homepage": "https://leaguestats.gg",
             "id": 176359515,
             "language": "Vue",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-17T14:49:01Z",
+            "open_issues": 14,
             "owner": "vkaelin",
             "repo": "LeagueStats",
-            "stars": 490
+            "stars": 490,
+            "topics": [
+              "adonisjs",
+              "hacktoberfest",
+              "league-of-legends",
+              "leagueoflegends",
+              "nodejs",
+              "postgresql",
+              "redis",
+              "tailwindcss",
+              "typescript",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
         },
@@ -528,12 +871,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an outcome calculator for professional league of legends. probably works for any round robin based esport league.",
+            "homepage": null,
             "id": 346219363,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-20T17:29:49Z",
+            "open_issues": 1,
             "owner": "chhopsky",
             "repo": "foldysheet",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "esports",
+              "league-of-legends"
+            ]
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
         }
@@ -542,15 +893,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:21:22.022Z",
+    "last_updated": "2026-08-29T03:53:09.922Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of open-source projects related to esports.",
+      "homepage": "https://strift.dev/esports-oss",
       "id": 412132952,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-06-10T12:03:15Z",
+      "open_issues": 2,
       "owner": "Strift",
       "repo": "awesome-esports",
-      "stars": 105
+      "stars": 105,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "esports"
+      ]
     },
     "original_repository_sha": "e3b2e6cae67ebf985afee87d6074bae55ac66531",
     "enhanced_repository": "enhansome/enhansome-esports",
