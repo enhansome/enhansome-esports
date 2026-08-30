@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T13:01:43Z",
-                "open_issues": 159,
+                "last_commit": "2026-08-29T06:39:46Z",
+                "open_issues": 158,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26804,
+                "stars": 26806,
                 "topics": [
                   "bot",
                   "discord",
@@ -369,11 +369,11 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:03:54Z",
-                "open_issues": 22,
+                "last_commit": "2026-08-29T23:24:54Z",
+                "open_issues": 23,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1050,
+                "stars": 1052,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -459,7 +459,7 @@
                 "open_issues": 17,
                 "owner": "meraki-analytics",
                 "repo": "cassiopeia",
-                "stars": 582,
+                "stars": 581,
                 "topics": [
                   "api",
                   "champion-gg-api",
@@ -795,7 +795,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-21T18:25:36Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "odota",
             "repo": "core",
             "stars": 1627,
@@ -827,7 +827,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1016,
+            "stars": 1015,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -848,7 +848,7 @@
             "open_issues": 14,
             "owner": "vkaelin",
             "repo": "LeagueStats",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "adonisjs",
               "hacktoberfest",
@@ -880,7 +880,7 @@
             "open_issues": 1,
             "owner": "chhopsky",
             "repo": "foldysheet",
-            "stars": 2,
+            "stars": 1,
             "topics": [
               "esports",
               "league-of-legends"
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:57:40.864Z",
+    "last_updated": "2026-08-30T00:43:31.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
