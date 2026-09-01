@@ -17,8 +17,8 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T09:19:34Z",
-                "open_issues": 157,
+                "last_commit": "2026-08-31T21:25:15Z",
+                "open_issues": 155,
                 "owner": "discordjs",
                 "repo": "discord.js",
                 "stars": 26803,
@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1117,
+                "stars": 1118,
                 "topics": [
                   "javascript",
                   "node",
@@ -190,7 +190,7 @@
                 "open_issues": 2,
                 "owner": "benweier",
                 "repo": "blizzard.js",
-                "stars": 155,
+                "stars": 154,
                 "topics": [
                   "api",
                   "battlenet",
@@ -369,8 +369,8 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-31T00:42:41Z",
-                "open_issues": 6,
+                "last_commit": "2026-08-31T23:00:03Z",
+                "open_issues": 4,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
                 "stars": 1052,
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T00:50:06.326Z",
+    "last_updated": "2026-09-01T01:23:28.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
