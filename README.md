@@ -25,13 +25,13 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,804 | 🐛 154 | 🌐 TypeScript | 📅 2026-08-31 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,807 | 🐛 154 | 🌐 TypeScript | 📅 2026-09-02 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,280 | 🐛 62 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,118 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 579 | 🐛 48 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
 * [HLTV](https://github.com/gigobyte/HLTV) ⭐ 497 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
 * [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 257 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
-* [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 154 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-01 - A Node.js library for interacting with the Blizzard Community Platform API.
+* [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 154 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-02 - A Node.js library for interacting with the Blizzard Community Platform API.
 * [valorant.js](https://github.com/liamcottle/valorant.js) ⭐ 109 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-16 - A Node.js library for interacting with the VALORANT APIs used in game.
 * [liquipediapy](https://github.com/c00kie17/liquipediapy) ⭐ 69 | 🐛 7 | 🌐 Python | 📅 2026-04-27 - A Python library for interacting with the Liquipedia API.
 * SteamID - A library for manipulating Steam IDs.
@@ -44,7 +44,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Data parsing and analysis
 
-* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,052 | 🐛 4 | 🌐 Go | 📅 2026-08-31 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,053 | 🐛 7 | 🌐 Go | 📅 2026-09-02 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 762 | 🐛 10 | 🌐 Java | 📅 2026-07-22 - A Java library for parsing CS:GO and Dota 2 replays.
 * [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 610 | 🐛 29 | 🌐 Python | 📅 2026-08-04 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 581 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
@@ -86,7 +86,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Dota 2**
 
-* [Open Dota](https://github.com/odota/core) ⭐ 1,628 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-21 - A website for Dota 2 esports stats.
+* [Open Dota](https://github.com/odota/core) ⭐ 1,628 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-21 - A website for Dota 2 esports stats.
 
 **League of Legends**
 
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
