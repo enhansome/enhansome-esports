@@ -21,7 +21,7 @@
                 "open_issues": 155,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26807,
+                "stars": 26808,
                 "topics": [
                   "bot",
                   "discord",
@@ -369,7 +369,7 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-03T09:53:31Z",
+                "last_commit": "2026-09-05T23:57:31Z",
                 "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
@@ -655,7 +655,7 @@
             "open_issues": 9,
             "owner": "techchrism",
             "repo": "valorant-api-docs",
-            "stars": 592,
+            "stars": 593,
             "topics": [
               "valorant"
             ]
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:23:33.779Z",
+    "last_updated": "2026-09-06T00:13:07.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
