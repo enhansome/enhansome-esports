@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T11:08:03Z",
-                "open_issues": 156,
+                "last_commit": "2026-09-07T14:25:21Z",
+                "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26809,
+                "stars": 26812,
                 "topics": [
                   "bot",
                   "discord",
@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1120,
+                "stars": 1118,
                 "topics": [
                   "javascript",
                   "node",
@@ -373,7 +373,7 @@
                 "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1054,
+                "stars": 1055,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -409,7 +409,7 @@
                 "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
-                "stars": 763,
+                "stars": 764,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
@@ -459,7 +459,7 @@
                 "open_issues": 17,
                 "owner": "meraki-analytics",
                 "repo": "cassiopeia",
-                "stars": 581,
+                "stars": 582,
                 "topics": [
                   "api",
                   "champion-gg-api",
@@ -570,7 +570,7 @@
                 "open_issues": 5,
                 "owner": "Drarig29",
                 "repo": "brackets-manager.js",
-                "stars": 332,
+                "stars": 333,
                 "topics": [
                   "bracket",
                   "elimination",
@@ -678,7 +678,7 @@
             "open_issues": 15,
             "owner": "Pupix",
             "repo": "rift-explorer",
-            "stars": 564,
+            "stars": 565,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -772,7 +772,7 @@
             "open_issues": 4,
             "owner": "boltgolt",
             "repo": "boltobserv",
-            "stars": 382,
+            "stars": 383,
             "topics": [
               "cs2",
               "csgo",
@@ -827,7 +827,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1015,
+            "stars": 1017,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -848,7 +848,7 @@
             "open_issues": 14,
             "owner": "vkaelin",
             "repo": "LeagueStats",
-            "stars": 491,
+            "stars": 492,
             "topics": [
               "adonisjs",
               "hacktoberfest",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:20:36.997Z",
+    "last_updated": "2026-09-08T00:40:38.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
