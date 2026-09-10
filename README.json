@@ -17,8 +17,8 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T15:49:16Z",
-                "open_issues": 158,
+                "last_commit": "2026-09-09T21:55:18Z",
+                "open_issues": 159,
                 "owner": "discordjs",
                 "repo": "discord.js",
                 "stars": 26814,
@@ -52,7 +52,7 @@
                 "open_issues": 63,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1280,
+                "stars": 1282,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1118,
+                "stars": 1120,
                 "topics": [
                   "javascript",
                   "node",
@@ -114,7 +114,7 @@
                 "open_issues": 49,
                 "owner": "DoctorMcKay",
                 "repo": "node-steamcommunity",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "javascript",
                   "node",
@@ -165,7 +165,7 @@
                 "open_issues": 0,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-totp",
-                "stars": 257,
+                "stars": 258,
                 "topics": [
                   "javascript",
                   "node",
@@ -252,7 +252,7 @@
                 "open_issues": 7,
                 "owner": "c00kie17",
                 "repo": "liquipediapy",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "counter-strike",
                   "csgo",
@@ -369,7 +369,7 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T23:57:31Z",
+                "last_commit": "2026-09-09T18:24:44Z",
                 "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
@@ -409,7 +409,7 @@
                 "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
-                "stars": 764,
+                "stars": 765,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
@@ -426,7 +426,7 @@
                 "id": 232168657,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T14:50:26Z",
+                "last_commit": "2026-09-10T00:22:57Z",
                 "open_issues": 29,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:37:55.009Z",
+    "last_updated": "2026-09-10T00:36:01.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",

@@ -25,15 +25,15 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,814 | 🐛 158 | 🌐 TypeScript | 📅 2026-09-08 - A Node.js library for interacting with the Discord API.
-* [steam](https://github.com/ValvePython/steam/) ⭐ 1,280 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
-* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,118 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
-* [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 580 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,814 | 🐛 159 | 🌐 TypeScript | 📅 2026-09-09 - A Node.js library for interacting with the Discord API.
+* [steam](https://github.com/ValvePython/steam/) ⭐ 1,282 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
+* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,120 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
+* [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 581 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
 * [HLTV](https://github.com/gigobyte/HLTV) ⭐ 497 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
-* [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 257 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
+* [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 258 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
 * [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 154 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-02 - A Node.js library for interacting with the Blizzard Community Platform API.
 * [valorant.js](https://github.com/liamcottle/valorant.js) ⭐ 109 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-16 - A Node.js library for interacting with the VALORANT APIs used in game.
-* [liquipediapy](https://github.com/c00kie17/liquipediapy) ⭐ 69 | 🐛 7 | 🌐 Python | 📅 2026-04-27 - A Python library for interacting with the Liquipedia API.
+* [liquipediapy](https://github.com/c00kie17/liquipediapy) ⭐ 70 | 🐛 7 | 🌐 Python | 📅 2026-04-27 - A Python library for interacting with the Liquipedia API.
 * SteamID - A library for manipulating Steam IDs.
   * [Node.js](https://github.com/DoctorMcKay/node-steamid) ⭐ 75 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-20
   * [PHP](https://github.com/DoctorMcKay/php-steamid) ⭐ 11 | 🐛 0 | 🌐 PHP | 📅 2021-09-10
@@ -44,9 +44,9 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Data parsing and analysis
 
-* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,056 | 🐛 6 | 🌐 Go | 📅 2026-09-05 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
-* [Clarity](https://github.com/skadistats/clarity) ⭐ 764 | 🐛 10 | 🌐 Java | 📅 2026-07-22 - A Java library for parsing CS:GO and Dota 2 replays.
-* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 611 | 🐛 29 | 🌐 Python | 📅 2026-09-03 - A Python library for parsing, analyzing, and visualizing CS:GO data.
+* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,056 | 🐛 6 | 🌐 Go | 📅 2026-09-09 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+* [Clarity](https://github.com/skadistats/clarity) ⭐ 765 | 🐛 10 | 🌐 Java | 📅 2026-07-22 - A Java library for parsing CS:GO and Dota 2 replays.
+* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 611 | 🐛 29 | 🌐 Python | 📅 2026-09-10 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 582 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 * [Rattletrap](https://github.com/tfausak/rattletrap) ⚠️ Archived - A Haskell library for parsing and generating Rocket League replays.
 * [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 148 | 🐛 6 | 🌐 Rust | 📅 2026-08-30 - A Rust library for parsing Rocket League replays.
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
