@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T21:55:18Z",
-                "open_issues": 159,
+                "last_commit": "2026-09-10T18:37:31Z",
+                "open_issues": 163,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26814,
+                "stars": 26819,
                 "topics": [
                   "bot",
                   "discord",
@@ -114,7 +114,7 @@
                 "open_issues": 49,
                 "owner": "DoctorMcKay",
                 "repo": "node-steamcommunity",
-                "stars": 581,
+                "stars": 580,
                 "topics": [
                   "javascript",
                   "node",
@@ -186,8 +186,8 @@
                 "id": 70483095,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T23:47:05Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-10T23:56:53Z",
+                "open_issues": 7,
                 "owner": "benweier",
                 "repo": "blizzard.js",
                 "stars": 154,
@@ -370,10 +370,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-09T18:24:44Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1056,
+                "stars": 1057,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -426,7 +426,7 @@
                 "id": 232168657,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T00:22:57Z",
+                "last_commit": "2026-09-10T19:34:00Z",
                 "open_issues": 29,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
@@ -827,7 +827,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1017,
+            "stars": 1018,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:36:01.442Z",
+    "last_updated": "2026-09-11T00:33:32.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
