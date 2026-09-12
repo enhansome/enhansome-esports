@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T18:37:31Z",
-                "open_issues": 163,
+                "last_commit": "2026-09-11T19:45:01Z",
+                "open_issues": 164,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26819,
+                "stars": 26821,
                 "topics": [
                   "bot",
                   "discord",
@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1120,
+                "stars": 1119,
                 "topics": [
                   "javascript",
                   "node",
@@ -369,8 +369,8 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-09T18:24:44Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-11T14:21:04Z",
+                "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
                 "stars": 1057,
@@ -430,7 +430,7 @@
                 "open_issues": 29,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 611,
+                "stars": 612,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -795,7 +795,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-21T18:25:36Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "odota",
             "repo": "core",
             "stars": 1628,
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:33:32.580Z",
+    "last_updated": "2026-09-12T00:38:48.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
