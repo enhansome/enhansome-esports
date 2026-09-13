@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T19:45:01Z",
-                "open_issues": 164,
+                "last_commit": "2026-09-12T22:12:55Z",
+                "open_issues": 163,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26821,
+                "stars": 26822,
                 "topics": [
                   "bot",
                   "discord",
@@ -52,7 +52,7 @@
                 "open_issues": 63,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1282,
+                "stars": 1281,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -221,7 +221,7 @@
                 "open_issues": 1,
                 "owner": "liamcottle",
                 "repo": "valorant.js",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "api",
                   "competitive",
@@ -373,7 +373,7 @@
                 "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1057,
+                "stars": 1056,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -745,7 +745,7 @@
             "open_issues": 9,
             "owner": "lootmarket",
             "repo": "esport-team-logos",
-            "stars": 33,
+            "stars": 32,
             "topics": [
               "esports",
               "images",
@@ -772,7 +772,7 @@
             "open_issues": 4,
             "owner": "boltgolt",
             "repo": "boltobserv",
-            "stars": 383,
+            "stars": 384,
             "topics": [
               "cs2",
               "csgo",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:38:48.273Z",
+    "last_updated": "2026-09-13T00:22:23.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",

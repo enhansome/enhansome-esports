@@ -25,14 +25,14 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,821 | 🐛 164 | 🌐 TypeScript | 📅 2026-09-11 - A Node.js library for interacting with the Discord API.
-* [steam](https://github.com/ValvePython/steam/) ⭐ 1,282 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,822 | 🐛 163 | 🌐 TypeScript | 📅 2026-09-12 - A Node.js library for interacting with the Discord API.
+* [steam](https://github.com/ValvePython/steam/) ⭐ 1,281 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,119 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 580 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
 * [HLTV](https://github.com/gigobyte/HLTV) ⭐ 497 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
 * [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 258 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
 * [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 154 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-10 - A Node.js library for interacting with the Blizzard Community Platform API.
-* [valorant.js](https://github.com/liamcottle/valorant.js) ⭐ 109 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-16 - A Node.js library for interacting with the VALORANT APIs used in game.
+* [valorant.js](https://github.com/liamcottle/valorant.js) ⭐ 110 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-16 - A Node.js library for interacting with the VALORANT APIs used in game.
 * [liquipediapy](https://github.com/c00kie17/liquipediapy) ⭐ 70 | 🐛 7 | 🌐 Python | 📅 2026-04-27 - A Python library for interacting with the Liquipedia API.
 * SteamID - A library for manipulating Steam IDs.
   * [Node.js](https://github.com/DoctorMcKay/node-steamid) ⭐ 75 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-20
@@ -44,7 +44,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Data parsing and analysis
 
-* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,057 | 🐛 6 | 🌐 Go | 📅 2026-09-11 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,056 | 🐛 6 | 🌐 Go | 📅 2026-09-11 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 765 | 🐛 10 | 🌐 Java | 📅 2026-07-22 - A Java library for parsing CS:GO and Dota 2 replays.
 * [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 612 | 🐛 29 | 🌐 Python | 📅 2026-09-10 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 582 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
@@ -78,11 +78,11 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 > Applications and general-purpose tooling.
 
-* [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) ⭐ 33 | 🐛 9 | 📅 2024-10-05 - A database of Esports teams logos.
+* [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) ⭐ 32 | 🐛 9 | 📅 2024-10-05 - A database of Esports teams logos.
 
 **Counter-Strike: Global Offensive**
 
-* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 383 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
+* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 384 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
 
 **Dota 2**
 
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
