@@ -25,9 +25,9 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,822 | 🐛 163 | 🌐 TypeScript | 📅 2026-09-12 - A Node.js library for interacting with the Discord API.
-* [steam](https://github.com/ValvePython/steam/) ⭐ 1,281 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
-* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,119 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,821 | 🐛 165 | 🌐 TypeScript | 📅 2026-09-14 - A Node.js library for interacting with the Discord API.
+* [steam](https://github.com/ValvePython/steam/) ⭐ 1,283 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
+* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,120 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 580 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
 * [HLTV](https://github.com/gigobyte/HLTV) ⭐ 497 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
 * [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 258 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
@@ -86,7 +86,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Dota 2**
 
-* [Open Dota](https://github.com/odota/core) ⭐ 1,628 | 🐛 82 | 🌐 TypeScript | 📅 2026-08-21 - A website for Dota 2 esports stats.
+* [Open Dota](https://github.com/odota/core) ⭐ 1,626 | 🐛 82 | 🌐 TypeScript | 📅 2026-08-21 - A website for Dota 2 esports stats.
 
 **League of Legends**
 
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
