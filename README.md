@@ -25,7 +25,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,821 | 🐛 165 | 🌐 TypeScript | 📅 2026-09-14 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,823 | 🐛 165 | 🌐 TypeScript | 📅 2026-09-14 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,283 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,120 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 580 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
@@ -86,12 +86,12 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Dota 2**
 
-* [Open Dota](https://github.com/odota/core) ⭐ 1,626 | 🐛 82 | 🌐 TypeScript | 📅 2026-08-21 - A website for Dota 2 esports stats.
+* [Open Dota](https://github.com/odota/core) ⭐ 1,627 | 🐛 82 | 🌐 TypeScript | 📅 2026-08-21 - A website for Dota 2 esports stats.
 
 **League of Legends**
 
 * [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,019 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
-* [LeagueStats](https://github.com/vkaelin/LeagueStats) ⭐ 492 | 🐛 14 | 🌐 Vue | 📅 2026-07-17 - A website for League of Legends summoners' stats.
+* [LeagueStats](https://github.com/vkaelin/LeagueStats) ⭐ 493 | 🐛 14 | 🌐 Vue | 📅 2026-07-17 - A website for League of Legends summoners' stats.
 * [Foldy Sheet](https://github.com/chhopsky/foldysheet) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2023-07-20 - A Python script to determine whether teams can make playoffs or not.
 
 ## Education
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
