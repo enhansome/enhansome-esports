@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1120,
+                "stars": 1119,
                 "topics": [
                   "javascript",
                   "node",
@@ -409,7 +409,7 @@
                 "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
-                "stars": 765,
+                "stars": 766,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
@@ -794,8 +794,8 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-21T18:25:36Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-16T15:06:58Z",
+            "open_issues": 77,
             "owner": "odota",
             "repo": "core",
             "stars": 1627,
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T00:48:48.784Z",
+    "last_updated": "2026-09-17T00:53:15.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
