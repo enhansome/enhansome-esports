@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T13:45:58Z",
+                "last_commit": "2026-09-18T10:46:02Z",
                 "open_issues": 165,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26825,
+                "stars": 26824,
                 "topics": [
                   "bot",
                   "discord",
@@ -409,7 +409,7 @@
                 "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
-                "stars": 766,
+                "stars": 767,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
@@ -430,7 +430,7 @@
                 "open_issues": 29,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 612,
+                "stars": 613,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -794,11 +794,11 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T00:05:15Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-18T23:58:55Z",
+            "open_issues": 74,
             "owner": "odota",
             "repo": "core",
-            "stars": 1627,
+            "stars": 1626,
             "topics": [
               "api",
               "data",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:47:00.839Z",
+    "last_updated": "2026-09-19T00:38:24.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
@@ -902,10 +902,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-06-10T12:03:15Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "Strift",
       "repo": "awesome-esports",
-      "stars": 105,
+      "stars": 106,
       "topics": [
         "awesome",
         "awesome-list",
