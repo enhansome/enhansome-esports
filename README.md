@@ -25,9 +25,9 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,825 | 🐛 166 | 🌐 TypeScript | 📅 2026-09-18 - A Node.js library for interacting with the Discord API.
-* [steam](https://github.com/ValvePython/steam/) ⭐ 1,283 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
-* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,120 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,827 | 🐛 166 | 🌐 TypeScript | 📅 2026-09-20 - A Node.js library for interacting with the Discord API.
+* [steam](https://github.com/ValvePython/steam/) ⭐ 1,285 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
+* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,121 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 580 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
 * [HLTV](https://github.com/gigobyte/HLTV) ⭐ 497 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
 * [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 258 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
@@ -46,8 +46,8 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 * [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,058 | 🐛 7 | 🌐 Go | 📅 2026-09-17 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 767 | 🐛 10 | 🌐 Java | 📅 2026-07-22 - A Java library for parsing CS:GO and Dota 2 replays.
-* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 613 | 🐛 29 | 🌐 Python | 📅 2026-09-10 - A Python library for parsing, analyzing, and visualizing CS:GO data.
-* [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 582 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
+* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 613 | 🐛 30 | 🌐 Python | 📅 2026-09-20 - A Python library for parsing, analyzing, and visualizing CS:GO data.
+* [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 581 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 * [Rattletrap](https://github.com/tfausak/rattletrap) ⚠️ Archived - A Haskell library for parsing and generating Rocket League replays.
 * [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 148 | 🐛 6 | 🌐 Rust | 📅 2026-08-30 - A Rust library for parsing Rocket League replays.
 
@@ -57,7 +57,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Tournaments management
 
-* [brackets-manager.js](https://github.com/Drarig29/brackets-manager.js) ⭐ 334 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-19 - A JavaScript library to manage tournament brackets.
+* [brackets-manager.js](https://github.com/Drarig29/brackets-manager.js) ⭐ 333 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-20 - A JavaScript library to manage tournament brackets.
 * [brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) ⭐ 231 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-19 - A JavaScript library to display tournament brackets.
 
 ## Developer tools
@@ -71,7 +71,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 > Community-maintained documentation of editor APIs.
 
 * [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) ⭐ 593 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-20 - An automatically generated documentation of Valorant internal API.
-* [Rift Explorer](https://github.com/Pupix/rift-explorer) ⭐ 565 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - An automatically generated documentation of Riot Games LCU API.
+* [Rift Explorer](https://github.com/Pupix/rift-explorer) ⭐ 566 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - An automatically generated documentation of Riot Games LCU API.
 * [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) ⭐ 36 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-21 - A documentation and discussion website for Blizzard and Battle.net protocols.
 
 ## Applications & Tools
@@ -86,17 +86,17 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Dota 2**
 
-* [Open Dota](https://github.com/odota/core) ⭐ 1,626 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-19 - A website for Dota 2 esports stats.
+* [Open Dota](https://github.com/odota/core) ⭐ 1,626 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-20 - A website for Dota 2 esports stats.
 
 **League of Legends**
 
 * [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,019 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
-* [LeagueStats](https://github.com/vkaelin/LeagueStats) ⭐ 493 | 🐛 14 | 🌐 Vue | 📅 2026-07-17 - A website for League of Legends summoners' stats.
-* [Foldy Sheet](https://github.com/chhopsky/foldysheet) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2023-07-20 - A Python script to determine whether teams can make playoffs or not.
+* [LeagueStats](https://github.com/vkaelin/LeagueStats) ⭐ 494 | 🐛 14 | 🌐 Vue | 📅 2026-07-17 - A website for League of Legends summoners' stats.
+* [Foldy Sheet](https://github.com/chhopsky/foldysheet) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2023-07-20 - A Python script to determine whether teams can make playoffs or not.
 
 ## Education
 
-* [League of Legends Analytics](https://github.com/FloPrm/lol_analytics) ⭐ 91 | 🐛 0 | 📅 2025-03-04 - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
+* [League of Legends Analytics](https://github.com/FloPrm/lol_analytics) ⭐ 92 | 🐛 0 | 📅 2025-03-04 - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
 
 ## Contributing
 
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._

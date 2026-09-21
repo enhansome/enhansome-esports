@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T10:46:02Z",
+                "last_commit": "2026-09-20T14:33:15Z",
                 "open_issues": 166,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26825,
+                "stars": 26827,
                 "topics": [
                   "bot",
                   "discord",
@@ -52,7 +52,7 @@
                 "open_issues": 63,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1283,
+                "stars": 1285,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1120,
+                "stars": 1121,
                 "topics": [
                   "javascript",
                   "node",
@@ -426,8 +426,8 @@
                 "id": 232168657,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T19:34:00Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-20T15:11:53Z",
+                "open_issues": 30,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
                 "stars": 613,
@@ -459,7 +459,7 @@
                 "open_issues": 17,
                 "owner": "meraki-analytics",
                 "repo": "cassiopeia",
-                "stars": 582,
+                "stars": 581,
                 "topics": [
                   "api",
                   "champion-gg-api",
@@ -566,11 +566,11 @@
                 "id": 268850914,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T09:52:29Z",
+                "last_commit": "2026-09-20T08:56:46Z",
                 "open_issues": 5,
                 "owner": "Drarig29",
                 "repo": "brackets-manager.js",
-                "stars": 334,
+                "stars": 333,
                 "topics": [
                   "bracket",
                   "elimination",
@@ -678,7 +678,7 @@
             "open_issues": 15,
             "owner": "Pupix",
             "repo": "rift-explorer",
-            "stars": 565,
+            "stars": 566,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -794,7 +794,7 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T23:38:01Z",
+            "last_commit": "2026-09-20T18:36:37Z",
             "open_issues": 72,
             "owner": "odota",
             "repo": "core",
@@ -848,7 +848,7 @@
             "open_issues": 14,
             "owner": "vkaelin",
             "repo": "LeagueStats",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "adonisjs",
               "hacktoberfest",
@@ -880,7 +880,7 @@
             "open_issues": 1,
             "owner": "chhopsky",
             "repo": "foldysheet",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "esports",
               "league-of-legends"
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:24:07.837Z",
+    "last_updated": "2026-09-21T00:30:04.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
@@ -905,7 +905,7 @@
       "open_issues": 3,
       "owner": "Strift",
       "repo": "awesome-esports",
-      "stars": 106,
+      "stars": 107,
       "topics": [
         "awesome",
         "awesome-list",
