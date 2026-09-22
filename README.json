@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T14:33:15Z",
-                "open_issues": 166,
+                "last_commit": "2026-09-21T14:23:00Z",
+                "open_issues": 163,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26827,
+                "stars": 26829,
                 "topics": [
                   "bot",
                   "discord",
@@ -795,7 +795,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-20T18:36:37Z",
-            "open_issues": 72,
+            "open_issues": 74,
             "owner": "odota",
             "repo": "core",
             "stars": 1626,
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:30:04.394Z",
+    "last_updated": "2026-09-22T01:10:36.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
