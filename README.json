@@ -21,7 +21,7 @@
                 "open_issues": 163,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26827,
+                "stars": 26825,
                 "topics": [
                   "bot",
                   "discord",
@@ -405,8 +405,8 @@
                 "id": 15440789,
                 "language": "Java",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-07-22T06:34:50Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-24T21:42:28Z",
+                "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
                 "stars": 767,
@@ -430,7 +430,7 @@
                 "open_issues": 30,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 613,
+                "stars": 614,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -510,7 +510,7 @@
                 "open_issues": 8,
                 "owner": "nickbabcock",
                 "repo": "boxcars",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "rocket-league",
                   "rust",
@@ -695,7 +695,7 @@
             "id": 18000918,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-06-21T13:33:54Z",
+            "last_commit": "2026-09-24T02:56:40Z",
             "open_issues": 13,
             "owner": "BNETDocs",
             "repo": "bnetdocs-web",
@@ -794,11 +794,11 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T18:36:37Z",
+            "last_commit": "2026-09-24T07:59:16Z",
             "open_issues": 75,
             "owner": "odota",
             "repo": "core",
-            "stars": 1627,
+            "stars": 1628,
             "topics": [
               "api",
               "data",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:53:16.039Z",
+    "last_updated": "2026-09-25T00:50:17.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
