@@ -373,7 +373,7 @@
                 "open_issues": 7,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1058,
+                "stars": 1057,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -510,7 +510,7 @@
                 "open_issues": 8,
                 "owner": "nickbabcock",
                 "repo": "boxcars",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "rocket-league",
                   "rust",
@@ -655,7 +655,7 @@
             "open_issues": 10,
             "owner": "techchrism",
             "repo": "valorant-api-docs",
-            "stars": 594,
+            "stars": 593,
             "topics": [
               "valorant"
             ]
@@ -794,11 +794,11 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T07:59:16Z",
+            "last_commit": "2026-09-25T23:36:34Z",
             "open_issues": 75,
             "owner": "odota",
             "repo": "core",
-            "stars": 1628,
+            "stars": 1629,
             "topics": [
               "api",
               "data",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:50:17.613Z",
+    "last_updated": "2026-09-26T00:53:35.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
@@ -905,7 +905,7 @@
       "open_issues": 3,
       "owner": "Strift",
       "repo": "awesome-esports",
-      "stars": 107,
+      "stars": 108,
       "topics": [
         "awesome",
         "awesome-list",

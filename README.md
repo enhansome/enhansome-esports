@@ -44,12 +44,12 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Data parsing and analysis
 
-* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,058 | 🐛 7 | 🌐 Go | 📅 2026-09-17 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,057 | 🐛 7 | 🌐 Go | 📅 2026-09-17 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 767 | 🐛 10 | 🌐 Java | 📅 2026-09-24 - A Java library for parsing CS:GO and Dota 2 replays.
 * [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 614 | 🐛 30 | 🌐 Python | 📅 2026-09-20 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 581 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 * [Rattletrap](https://github.com/tfausak/rattletrap) ⚠️ Archived - A Haskell library for parsing and generating Rocket League replays.
-* [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 149 | 🐛 8 | 🌐 Rust | 📅 2026-08-30 - A Rust library for parsing Rocket League replays.
+* [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 150 | 🐛 8 | 🌐 Rust | 📅 2026-08-30 - A Rust library for parsing Rocket League replays.
 
 ### Team management
 
@@ -70,7 +70,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 > Community-maintained documentation of editor APIs.
 
-* [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) ⭐ 594 | 🐛 10 | 🌐 TypeScript | 📅 2024-04-20 - An automatically generated documentation of Valorant internal API.
+* [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) ⭐ 593 | 🐛 10 | 🌐 TypeScript | 📅 2024-04-20 - An automatically generated documentation of Valorant internal API.
 * [Rift Explorer](https://github.com/Pupix/rift-explorer) ⭐ 567 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - An automatically generated documentation of Riot Games LCU API.
 * [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) ⭐ 36 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-24 - A documentation and discussion website for Blizzard and Battle.net protocols.
 
@@ -86,7 +86,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Dota 2**
 
-* [Open Dota](https://github.com/odota/core) ⭐ 1,628 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-24 - A website for Dota 2 esports stats.
+* [Open Dota](https://github.com/odota/core) ⭐ 1,629 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-25 - A website for Dota 2 esports stats.
 
 **League of Legends**
 
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
