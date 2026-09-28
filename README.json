@@ -21,7 +21,7 @@
                 "open_issues": 163,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26826,
+                "stars": 26825,
                 "topics": [
                   "bot",
                   "discord",
@@ -373,7 +373,7 @@
                 "open_issues": 7,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1057,
+                "stars": 1058,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -430,7 +430,7 @@
                 "open_issues": 30,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 615,
+                "stars": 616,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -827,7 +827,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1020,
+            "stars": 1021,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -848,7 +848,7 @@
             "open_issues": 14,
             "owner": "vkaelin",
             "repo": "LeagueStats",
-            "stars": 494,
+            "stars": 493,
             "topics": [
               "adonisjs",
               "hacktoberfest",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:52:47.643Z",
+    "last_updated": "2026-09-28T01:11:02.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
