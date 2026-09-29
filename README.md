@@ -25,7 +25,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,825 | 🐛 163 | 🌐 TypeScript | 📅 2026-09-21 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,820 | 🐛 151 | 🌐 TypeScript | 📅 2026-09-28 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,286 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,121 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 579 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
@@ -44,12 +44,12 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Data parsing and analysis
 
-* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,058 | 🐛 7 | 🌐 Go | 📅 2026-09-17 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,059 | 🐛 7 | 🌐 Go | 📅 2026-09-17 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 767 | 🐛 10 | 🌐 Java | 📅 2026-09-24 - A Java library for parsing CS:GO and Dota 2 replays.
-* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 616 | 🐛 30 | 🌐 Python | 📅 2026-09-20 - A Python library for parsing, analyzing, and visualizing CS:GO data.
+* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 617 | 🐛 30 | 🌐 Python | 📅 2026-09-28 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 581 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 * [Rattletrap](https://github.com/tfausak/rattletrap) ⚠️ Archived - A Haskell library for parsing and generating Rocket League replays.
-* [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 150 | 🐛 8 | 🌐 Rust | 📅 2026-08-30 - A Rust library for parsing Rocket League replays.
+* [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 150 | 🐛 6 | 🌐 Rust | 📅 2026-09-28 - A Rust library for parsing Rocket League replays.
 
 ### Team management
 
@@ -82,7 +82,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Counter-Strike: Global Offensive**
 
-* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 384 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
+* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 385 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
 
 **Dota 2**
 
@@ -90,7 +90,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **League of Legends**
 
-* [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,021 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
+* [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,022 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
 * [LeagueStats](https://github.com/vkaelin/LeagueStats) ⭐ 493 | 🐛 14 | 🌐 Vue | 📅 2026-07-17 - A website for League of Legends summoners' stats.
 * [Foldy Sheet](https://github.com/chhopsky/foldysheet) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2023-07-20 - A Python script to determine whether teams can make playoffs or not.
 
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
