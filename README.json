@@ -17,8 +17,8 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T00:20:54Z",
-                "open_issues": 153,
+                "last_commit": "2026-10-01T01:01:31Z",
+                "open_issues": 150,
                 "owner": "discordjs",
                 "repo": "discord.js",
                 "stars": 26819,
@@ -373,7 +373,7 @@
                 "open_issues": 7,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1059,
+                "stars": 1060,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -409,7 +409,7 @@
                 "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
-                "stars": 767,
+                "stars": 768,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
@@ -486,7 +486,7 @@
                 "open_issues": 0,
                 "owner": "tfausak",
                 "repo": "rattletrap",
-                "stars": 159,
+                "stars": 158,
                 "topics": [
                   "haskell",
                   "rocket-league"
@@ -798,7 +798,7 @@
             "open_issues": 75,
             "owner": "odota",
             "repo": "core",
-            "stars": 1630,
+            "stars": 1632,
             "topics": [
               "api",
               "data",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:35:07.582Z",
+    "last_updated": "2026-10-01T01:35:11.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
@@ -902,7 +902,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-06-10T12:03:15Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "Strift",
       "repo": "awesome-esports",
       "stars": 108,
