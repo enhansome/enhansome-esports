@@ -21,7 +21,7 @@
                 "open_issues": 151,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26818,
+                "stars": 26819,
                 "topics": [
                   "bot",
                   "discord",
@@ -276,7 +276,7 @@
                 {
                   "node_type": "item",
                   "title": "Node.js",
-                  "description": null,
+                  "description": "DoctorMcKay/node-steamid",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -297,7 +297,7 @@
                 {
                   "node_type": "item",
                   "title": "PHP",
-                  "description": null,
+                  "description": "DoctorMcKay/php-steamid",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -794,8 +794,8 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T07:49:43Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-03T01:36:38Z",
+            "open_issues": 72,
             "owner": "odota",
             "repo": "core",
             "stars": 1632,
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:26:53.730Z",
+    "last_updated": "2026-10-03T04:43:07.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
