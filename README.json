@@ -21,7 +21,7 @@
                 "open_issues": 151,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26819,
+                "stars": 26816,
                 "topics": [
                   "bot",
                   "discord",
@@ -86,7 +86,7 @@
                 "open_issues": 66,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1121,
+                "stars": 1122,
                 "topics": [
                   "javascript",
                   "node",
@@ -406,7 +406,7 @@
                 "language": "Java",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-24T21:42:28Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "skadistats",
                 "repo": "clarity",
                 "stars": 768,
@@ -570,7 +570,7 @@
                 "open_issues": 5,
                 "owner": "Drarig29",
                 "repo": "brackets-manager.js",
-                "stars": 332,
+                "stars": 333,
                 "topics": [
                   "bracket",
                   "elimination",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:43:07.508Z",
+    "last_updated": "2026-10-04T01:59:22.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
