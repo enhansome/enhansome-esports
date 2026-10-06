@@ -17,8 +17,8 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T01:01:31Z",
-                "open_issues": 151,
+                "last_commit": "2026-10-05T16:16:11Z",
+                "open_issues": 154,
                 "owner": "discordjs",
                 "repo": "discord.js",
                 "stars": 26819,
@@ -86,7 +86,7 @@
                 "open_issues": 66,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1122,
+                "stars": 1121,
                 "topics": [
                   "javascript",
                   "node",
@@ -140,7 +140,7 @@
                 "open_issues": 15,
                 "owner": "gigobyte",
                 "repo": "HLTV",
-                "stars": 497,
+                "stars": 496,
                 "topics": [
                   "hltv",
                   "parser",
@@ -405,11 +405,11 @@
                 "id": 15440789,
                 "language": "Java",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-04T14:30:57Z",
+                "last_commit": "2026-10-05T06:43:11Z",
                 "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
-                "stars": 768,
+                "stars": 767,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
@@ -426,7 +426,7 @@
                 "id": 232168657,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T01:08:53Z",
+                "last_commit": "2026-10-05T01:45:39Z",
                 "open_issues": 30,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
@@ -794,7 +794,7 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:36:38Z",
+            "last_commit": "2026-10-05T01:30:25Z",
             "open_issues": 71,
             "owner": "odota",
             "repo": "core",
@@ -827,7 +827,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1022,
+            "stars": 1023,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T01:16:43.655Z",
+    "last_updated": "2026-10-06T02:30:56.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",

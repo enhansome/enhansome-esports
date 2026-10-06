@@ -25,11 +25,11 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,819 | 🐛 151 | 🌐 TypeScript | 📅 2026-10-01 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,819 | 🐛 154 | 🌐 TypeScript | 📅 2026-10-05 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,287 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
-* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,122 | 🐛 66 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
+* [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,121 | 🐛 66 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 579 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
-* [HLTV](https://github.com/gigobyte/HLTV) ⭐ 497 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
+* [HLTV](https://github.com/gigobyte/HLTV) ⭐ 496 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
 * [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 258 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
 * [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 154 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-01 - A Node.js library for interacting with the Blizzard Community Platform API.
 * [valorant.js](https://github.com/liamcottle/valorant.js) ⭐ 110 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-16 - A Node.js library for interacting with the VALORANT APIs used in game.
@@ -45,7 +45,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 ### Data parsing and analysis
 
 * [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,060 | 🐛 7 | 🌐 Go | 📅 2026-09-17 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
-* [Clarity](https://github.com/skadistats/clarity) ⭐ 768 | 🐛 10 | 🌐 Java | 📅 2026-10-04 - A Java library for parsing CS:GO and Dota 2 replays.
+* [Clarity](https://github.com/skadistats/clarity) ⭐ 767 | 🐛 10 | 🌐 Java | 📅 2026-10-05 - A Java library for parsing CS:GO and Dota 2 replays.
 * [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 617 | 🐛 30 | 🌐 Python | 📅 2026-10-05 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 581 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 * [Rattletrap](https://github.com/tfausak/rattletrap) ⚠️ Archived - A Haskell library for parsing and generating Rocket League replays.
@@ -86,11 +86,11 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Dota 2**
 
-* [Open Dota](https://github.com/odota/core) ⭐ 1,632 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-03 - A website for Dota 2 esports stats.
+* [Open Dota](https://github.com/odota/core) ⭐ 1,632 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-05 - A website for Dota 2 esports stats.
 
 **League of Legends**
 
-* [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,022 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
+* [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,023 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
 * [LeagueStats](https://github.com/vkaelin/LeagueStats) ⭐ 494 | 🐛 14 | 🌐 Vue | 📅 2026-07-17 - A website for League of Legends summoners' stats.
 * [Foldy Sheet](https://github.com/chhopsky/foldysheet) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2023-07-20 - A Python script to determine whether teams can make playoffs or not.
 
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
