@@ -21,7 +21,7 @@
                 "open_issues": 154,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26820,
+                "stars": 26818,
                 "topics": [
                   "bot",
                   "discord",
@@ -430,7 +430,7 @@
                 "open_issues": 30,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 617,
+                "stars": 618,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -570,7 +570,7 @@
                 "open_issues": 5,
                 "owner": "Drarig29",
                 "repo": "brackets-manager.js",
-                "stars": 333,
+                "stars": 334,
                 "topics": [
                   "bracket",
                   "elimination",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:17:27.889Z",
+    "last_updated": "2026-10-07T01:48:52.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
