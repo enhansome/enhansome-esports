@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T16:16:11Z",
-                "open_issues": 154,
+                "last_commit": "2026-10-08T13:39:41Z",
+                "open_issues": 156,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26817,
+                "stars": 26815,
                 "topics": [
                   "bot",
                   "discord",
@@ -114,7 +114,7 @@
                 "open_issues": 49,
                 "owner": "DoctorMcKay",
                 "repo": "node-steamcommunity",
-                "stars": 579,
+                "stars": 580,
                 "topics": [
                   "javascript",
                   "node",
@@ -427,7 +427,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-05T01:45:39Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
                 "stars": 618,
@@ -506,11 +506,11 @@
                 "id": 68257211,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-28T14:05:57Z",
+                "last_commit": "2026-10-08T18:48:32Z",
                 "open_issues": 6,
                 "owner": "nickbabcock",
                 "repo": "boxcars",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "rocket-league",
                   "rust",
@@ -570,7 +570,7 @@
                 "open_issues": 5,
                 "owner": "Drarig29",
                 "repo": "brackets-manager.js",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "bracket",
                   "elimination",
@@ -772,7 +772,7 @@
             "open_issues": 4,
             "owner": "boltgolt",
             "repo": "boltobserv",
-            "stars": 385,
+            "stars": 387,
             "topics": [
               "cs2",
               "csgo",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:16:38.775Z",
+    "last_updated": "2026-10-09T02:33:58.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",

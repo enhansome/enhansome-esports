@@ -25,10 +25,10 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,817 | 🐛 154 | 🌐 TypeScript | 📅 2026-10-05 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,815 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-08 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,286 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,122 | 🐛 66 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
-* [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 579 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
+* [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 580 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
 * [HLTV](https://github.com/gigobyte/HLTV) ⭐ 496 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
 * [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 258 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
 * [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 154 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-01 - A Node.js library for interacting with the Blizzard Community Platform API.
@@ -46,10 +46,10 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 * [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,061 | 🐛 7 | 🌐 Go | 📅 2026-09-17 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 768 | 🐛 10 | 🌐 Java | 📅 2026-10-05 - A Java library for parsing CS:GO and Dota 2 replays.
-* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 618 | 🐛 30 | 🌐 Python | 📅 2026-10-05 - A Python library for parsing, analyzing, and visualizing CS:GO data.
+* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 618 | 🐛 31 | 🌐 Python | 📅 2026-10-05 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 581 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 * [Rattletrap](https://github.com/tfausak/rattletrap) ⚠️ Archived - A Haskell library for parsing and generating Rocket League replays.
-* [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 150 | 🐛 6 | 🌐 Rust | 📅 2026-09-28 - A Rust library for parsing Rocket League replays.
+* [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 151 | 🐛 6 | 🌐 Rust | 📅 2026-10-08 - A Rust library for parsing Rocket League replays.
 
 ### Team management
 
@@ -57,7 +57,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Tournaments management
 
-* [brackets-manager.js](https://github.com/Drarig29/brackets-manager.js) ⭐ 334 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-20 - A JavaScript library to manage tournament brackets.
+* [brackets-manager.js](https://github.com/Drarig29/brackets-manager.js) ⭐ 335 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-20 - A JavaScript library to manage tournament brackets.
 * [brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) ⭐ 231 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-19 - A JavaScript library to display tournament brackets.
 
 ## Developer tools
@@ -82,7 +82,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Counter-Strike: Global Offensive**
 
-* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 385 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
+* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 387 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
 
 **Dota 2**
 
@@ -104,4 +104,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
