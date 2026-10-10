@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T13:39:41Z",
-                "open_issues": 156,
+                "last_commit": "2026-10-09T17:51:08Z",
+                "open_issues": 154,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26815,
+                "stars": 26816,
                 "topics": [
                   "bot",
                   "discord",
@@ -52,7 +52,7 @@
                 "open_issues": 63,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1286,
+                "stars": 1287,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -114,7 +114,7 @@
                 "open_issues": 49,
                 "owner": "DoctorMcKay",
                 "repo": "node-steamcommunity",
-                "stars": 580,
+                "stars": 578,
                 "topics": [
                   "javascript",
                   "node",
@@ -165,7 +165,7 @@
                 "open_issues": 0,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-totp",
-                "stars": 258,
+                "stars": 257,
                 "topics": [
                   "javascript",
                   "node",
@@ -373,7 +373,7 @@
                 "open_issues": 7,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1061,
+                "stars": 1062,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -695,7 +695,7 @@
             "id": 18000918,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T02:56:40Z",
+            "last_commit": "2026-10-09T20:38:16Z",
             "open_issues": 13,
             "owner": "BNETDocs",
             "repo": "bnetdocs-web",
@@ -795,7 +795,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-07T18:57:28Z",
-            "open_issues": 69,
+            "open_issues": 59,
             "owner": "odota",
             "repo": "core",
             "stars": 1635,
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:33:58.307Z",
+    "last_updated": "2026-10-10T01:54:48.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
