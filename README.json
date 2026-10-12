@@ -17,8 +17,8 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T17:51:08Z",
-                "open_issues": 154,
+                "last_commit": "2026-10-11T15:29:33Z",
+                "open_issues": 156,
                 "owner": "discordjs",
                 "repo": "discord.js",
                 "stars": 26819,
@@ -49,7 +49,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-23T17:58:40Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "ValvePython",
                 "repo": "steam",
                 "stars": 1287,
@@ -86,7 +86,7 @@
                 "open_issues": 66,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1122,
+                "stars": 1124,
                 "topics": [
                   "javascript",
                   "node",
@@ -369,11 +369,11 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-17T21:50:53Z",
+                "last_commit": "2026-10-11T13:31:48Z",
                 "open_issues": 7,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1062,
+                "stars": 1063,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -848,7 +848,7 @@
             "open_issues": 14,
             "owner": "vkaelin",
             "repo": "LeagueStats",
-            "stars": 495,
+            "stars": 496,
             "topics": [
               "adonisjs",
               "hacktoberfest",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:14:50.286Z",
+    "last_updated": "2026-10-12T01:47:34.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
