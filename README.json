@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T15:29:33Z",
-                "open_issues": 156,
+                "last_commit": "2026-10-14T01:06:30Z",
+                "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26819,
+                "stars": 26817,
                 "topics": [
                   "bot",
                   "discord",
@@ -86,7 +86,7 @@
                 "open_issues": 66,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1124,
+                "stars": 1125,
                 "topics": [
                   "javascript",
                   "node",
@@ -369,11 +369,11 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-12T23:15:00Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-13T11:32:17Z",
+                "open_issues": 4,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1066,
+                "stars": 1067,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -426,7 +426,7 @@
                 "id": 232168657,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T23:51:27Z",
+                "last_commit": "2026-10-14T00:58:13Z",
                 "open_issues": 31,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:11:02.010Z",
+    "last_updated": "2026-10-14T01:24:03.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
