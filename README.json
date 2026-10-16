@@ -21,7 +21,7 @@
                 "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26817,
+                "stars": 26819,
                 "topics": [
                   "bot",
                   "discord",
@@ -83,7 +83,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-12-04T11:57:18Z",
-                "open_issues": 66,
+                "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
                 "stars": 1126,
@@ -369,11 +369,11 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-14T23:29:33Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-15T13:54:37Z",
+                "open_issues": 8,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1068,
+                "stars": 1069,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -426,11 +426,11 @@
                 "id": 232168657,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-15T00:19:34Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-15T15:40:57Z",
+                "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 618,
+                "stars": 619,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -758,6 +758,33 @@
         },
         {
           "node_type": "item",
+          "title": "TeamTavern",
+          "description": "A website for finding players, groups and communities to play with.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TeamTavern: a team-finding site for gamers, full-stack PureScript (Halogen, Node, Postgres)",
+            "homepage": "https://www.teamtavern.net/",
+            "id": 155263350,
+            "language": "PureScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-15T18:53:19Z",
+            "open_issues": 1,
+            "owner": "bklaric",
+            "repo": "team-tavern",
+            "stars": 13,
+            "topics": [
+              "esports",
+              "gaming",
+              "halogen",
+              "lfg",
+              "purescript"
+            ]
+          },
+          "first_seen": "2026-10-16T00:45:52.448Z"
+        },
+        {
+          "node_type": "item",
           "title": "Boltobserv",
           "description": "An external Counter-Strike: Global Offensive radar for observers.",
           "children": [],
@@ -794,8 +821,8 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T18:31:54Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-15T22:21:21Z",
+            "open_issues": 58,
             "owner": "odota",
             "repo": "core",
             "stars": 1635,
@@ -893,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:53:01.060Z",
+    "last_updated": "2026-10-16T00:45:52.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
@@ -901,8 +928,8 @@
       "id": 412132952,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2025-06-10T12:03:15Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-15T03:24:24Z",
+      "open_issues": 2,
       "owner": "Strift",
       "repo": "awesome-esports",
       "stars": 108,
@@ -912,7 +939,7 @@
         "esports"
       ]
     },
-    "original_repository_sha": "e3b2e6cae67ebf985afee87d6074bae55ac66531",
+    "original_repository_sha": "5ef2efece65806a6f1ca5b3cb109c13c727c557b",
     "enhanced_repository": "enhansome/enhansome-esports",
     "enhanced_repository_description": null,
     "title": "Awesome Esports with stars"
