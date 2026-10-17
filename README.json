@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T01:06:30Z",
+                "last_commit": "2026-10-16T14:01:28Z",
                 "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26819,
+                "stars": 26818,
                 "topics": [
                   "bot",
                   "discord",
@@ -52,7 +52,7 @@
                 "open_issues": 64,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1288,
+                "stars": 1289,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1126,
+                "stars": 1127,
                 "topics": [
                   "javascript",
                   "node",
@@ -114,7 +114,7 @@
                 "open_issues": 49,
                 "owner": "DoctorMcKay",
                 "repo": "node-steamcommunity",
-                "stars": 578,
+                "stars": 579,
                 "topics": [
                   "javascript",
                   "node",
@@ -373,7 +373,7 @@
                 "open_issues": 8,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1069,
+                "stars": 1070,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -426,7 +426,7 @@
                 "id": 232168657,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-15T15:40:57Z",
+                "last_commit": "2026-10-16T20:46:43Z",
                 "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
@@ -821,7 +821,7 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T22:21:21Z",
+            "last_commit": "2026-10-16T11:15:10Z",
             "open_issues": 58,
             "owner": "odota",
             "repo": "core",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:45:52.448Z",
+    "last_updated": "2026-10-17T00:46:28.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
