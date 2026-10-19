@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T14:01:28Z",
-                "open_issues": 157,
+                "open_issues": 156,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26817,
+                "stars": 26818,
                 "topics": [
                   "bot",
                   "discord",
@@ -369,11 +369,11 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-17T22:35:12Z",
+                "last_commit": "2026-10-18T23:54:14Z",
                 "open_issues": 8,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -430,7 +430,7 @@
                 "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 619,
+                "stars": 620,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -506,8 +506,8 @@
                 "id": 68257211,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-13T00:36:06Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-18T14:19:25Z",
+                "open_issues": 5,
                 "owner": "nickbabcock",
                 "repo": "boxcars",
                 "stars": 151,
@@ -604,7 +604,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-19T09:51:49Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "Drarig29",
                 "repo": "brackets-viewer.js",
                 "stars": 231,
@@ -655,7 +655,7 @@
             "open_issues": 10,
             "owner": "techchrism",
             "repo": "valorant-api-docs",
-            "stars": 593,
+            "stars": 594,
             "topics": [
               "valorant"
             ]
@@ -822,7 +822,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T11:15:10Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "odota",
             "repo": "core",
             "stars": 1635,
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:20:03.993Z",
+    "last_updated": "2026-10-19T00:30:32.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
@@ -929,7 +929,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-15T03:24:24Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "Strift",
       "repo": "awesome-esports",
       "stars": 108,
