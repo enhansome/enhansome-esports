@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T14:01:28Z",
+                "last_commit": "2026-10-20T08:42:17Z",
                 "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26816,
+                "stars": 26820,
                 "topics": [
                   "bot",
                   "discord",
@@ -52,7 +52,7 @@
                 "open_issues": 65,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1289,
+                "stars": 1290,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -186,8 +186,8 @@
                 "id": 70483095,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T11:01:58Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-20T22:06:10Z",
+                "open_issues": 12,
                 "owner": "benweier",
                 "repo": "blizzard.js",
                 "stars": 154,
@@ -267,6 +267,43 @@
                 ]
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
+            },
+            {
+              "node_type": "item",
+              "title": "esportsodds-python",
+              "description": "A Python client library and MCP server for the esportsodds.gg CS2 data API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Python client for the esportsodds.gg CS2 data API, with an MCP server for AI assistants. Standard library only.",
+                "homepage": "https://esportsodds.gg/cs2-api",
+                "id": 1410235395,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-18T12:05:09Z",
+                "open_issues": 0,
+                "owner": "esportsodds",
+                "repo": "esportsodds-python",
+                "stars": 0,
+                "topics": [
+                  "api-client",
+                  "counter-strike",
+                  "counter-strike-2",
+                  "cs2",
+                  "cs2-api",
+                  "cs2-stats",
+                  "esports",
+                  "esports-api",
+                  "esports-data",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "python",
+                  "rest-api",
+                  "sdk"
+                ]
+              },
+              "first_seen": "2026-10-21T00:57:57.037Z"
             },
             {
               "node_type": "group",
@@ -369,11 +406,11 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-20T00:54:16Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-20T20:29:08Z",
+                "open_issues": 7,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1072,
+                "stars": 1071,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -409,7 +446,7 @@
                 "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
-                "stars": 770,
+                "stars": 773,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
@@ -768,7 +805,7 @@
             "id": 155263350,
             "language": "PureScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-15T18:53:19Z",
+            "last_commit": "2026-10-20T21:48:26Z",
             "open_issues": 1,
             "owner": "bklaric",
             "repo": "team-tavern",
@@ -799,7 +836,7 @@
             "open_issues": 4,
             "owner": "boltgolt",
             "repo": "boltobserv",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "cs2",
               "csgo",
@@ -920,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:16:47.638Z",
+    "last_updated": "2026-10-21T00:57:57.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
@@ -928,8 +965,8 @@
       "id": 412132952,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-15T03:24:24Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-20T02:33:33Z",
+      "open_issues": 2,
       "owner": "Strift",
       "repo": "awesome-esports",
       "stars": 108,
@@ -939,7 +976,7 @@
         "esports"
       ]
     },
-    "original_repository_sha": "5ef2efece65806a6f1ca5b3cb109c13c727c557b",
+    "original_repository_sha": "45c2743f1b16e146d376f01d53363d6939ffc3b5",
     "enhanced_repository": "enhansome/enhansome-esports",
     "enhanced_repository_description": null,
     "title": "Awesome Esports with stars"
