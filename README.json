@@ -17,8 +17,8 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T08:42:17Z",
-                "open_issues": 157,
+                "last_commit": "2026-10-21T20:01:17Z",
+                "open_issues": 155,
                 "owner": "discordjs",
                 "repo": "discord.js",
                 "stars": 26820,
@@ -407,7 +407,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-20T20:29:08Z",
-                "open_issues": 7,
+                "open_issues": 9,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
                 "stars": 1071,
@@ -463,7 +463,7 @@
                 "id": 232168657,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-17T20:59:28Z",
+                "last_commit": "2026-10-21T18:11:24Z",
                 "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
@@ -607,7 +607,7 @@
                 "open_issues": 5,
                 "owner": "Drarig29",
                 "repo": "brackets-manager.js",
-                "stars": 335,
+                "stars": 334,
                 "topics": [
                   "bracket",
                   "elimination",
@@ -692,7 +692,7 @@
             "open_issues": 10,
             "owner": "techchrism",
             "repo": "valorant-api-docs",
-            "stars": 594,
+            "stars": 593,
             "topics": [
               "valorant"
             ]
@@ -805,7 +805,7 @@
             "id": 155263350,
             "language": "PureScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T21:48:26Z",
+            "last_commit": "2026-10-21T15:59:04Z",
             "open_issues": 1,
             "owner": "bklaric",
             "repo": "team-tavern",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:57:57.037Z",
+    "last_updated": "2026-10-22T00:54:21.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
