@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T20:01:17Z",
-                "open_issues": 155,
+                "open_issues": 156,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26820,
+                "stars": 26819,
                 "topics": [
                   "bot",
                   "discord",
@@ -52,7 +52,7 @@
                 "open_issues": 65,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1290,
+                "stars": 1291,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -406,8 +406,8 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-20T20:29:08Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-22T08:48:58Z",
+                "open_issues": 5,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
                 "stars": 1071,
@@ -467,7 +467,7 @@
                 "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 620,
+                "stars": 623,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -805,8 +805,8 @@
             "id": 155263350,
             "language": "PureScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-21T15:59:04Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-22T11:26:43Z",
+            "open_issues": 2,
             "owner": "bklaric",
             "repo": "team-tavern",
             "stars": 13,
@@ -862,7 +862,7 @@
             "open_issues": 60,
             "owner": "odota",
             "repo": "core",
-            "stars": 1635,
+            "stars": 1636,
             "topics": [
               "api",
               "data",
@@ -891,7 +891,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:54:21.953Z",
+    "last_updated": "2026-10-23T00:57:04.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
