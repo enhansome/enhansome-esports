@@ -17,8 +17,8 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T20:01:17Z",
-                "open_issues": 156,
+                "last_commit": "2026-10-23T20:11:33Z",
+                "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
                 "stars": 26819,
@@ -406,8 +406,8 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-22T08:48:58Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-23T15:46:34Z",
+                "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
                 "stars": 1071,
@@ -467,7 +467,7 @@
                 "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 623,
+                "stars": 625,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -547,7 +547,7 @@
                 "open_issues": 6,
                 "owner": "nickbabcock",
                 "repo": "boxcars",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "rocket-league",
                   "rust",
@@ -692,7 +692,7 @@
             "open_issues": 10,
             "owner": "techchrism",
             "repo": "valorant-api-docs",
-            "stars": 593,
+            "stars": 595,
             "topics": [
               "valorant"
             ]
@@ -805,7 +805,7 @@
             "id": 155263350,
             "language": "PureScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T11:26:43Z",
+            "last_commit": "2026-10-23T12:15:00Z",
             "open_issues": 2,
             "owner": "bklaric",
             "repo": "team-tavern",
@@ -858,7 +858,7 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T19:55:35Z",
+            "last_commit": "2026-10-23T21:24:42Z",
             "open_issues": 60,
             "owner": "odota",
             "repo": "core",
@@ -891,7 +891,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1024,
+            "stars": 1025,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:57:04.716Z",
+    "last_updated": "2026-10-24T01:06:54.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
