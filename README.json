@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T20:11:33Z",
-                "open_issues": 158,
+                "open_issues": 159,
                 "owner": "discordjs",
                 "repo": "discord.js",
                 "stars": 26822,
@@ -83,7 +83,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-12-04T11:57:18Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
                 "stars": 1125,
@@ -410,7 +410,7 @@
                 "open_issues": 4,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1071,
+                "stars": 1072,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -442,7 +442,7 @@
                 "id": 15440789,
                 "language": "Java",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-05T06:43:11Z",
+                "last_commit": "2026-10-25T14:52:46Z",
                 "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
@@ -467,7 +467,7 @@
                 "open_issues": 6,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 625,
+                "stars": 626,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -715,7 +715,7 @@
             "open_issues": 15,
             "owner": "Pupix",
             "repo": "rift-explorer",
-            "stars": 567,
+            "stars": 566,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -805,7 +805,7 @@
             "id": 155263350,
             "language": "PureScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T12:15:00Z",
+            "last_commit": "2026-10-25T19:30:34Z",
             "open_issues": 2,
             "owner": "bklaric",
             "repo": "team-tavern",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:31:32.062Z",
+    "last_updated": "2026-10-26T00:43:27.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
@@ -966,7 +966,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-20T02:33:33Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "Strift",
       "repo": "awesome-esports",
       "stars": 108,
