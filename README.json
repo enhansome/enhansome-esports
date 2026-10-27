@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T20:11:33Z",
-                "open_issues": 159,
+                "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26822,
+                "stars": 26823,
                 "topics": [
                   "bot",
                   "discord",
@@ -446,7 +446,7 @@
                 "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
-                "stars": 773,
+                "stars": 774,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
@@ -692,7 +692,7 @@
             "open_issues": 10,
             "owner": "techchrism",
             "repo": "valorant-api-docs",
-            "stars": 595,
+            "stars": 596,
             "topics": [
               "valorant"
             ]
@@ -805,7 +805,7 @@
             "id": 155263350,
             "language": "PureScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-25T19:30:34Z",
+            "last_commit": "2026-10-26T20:02:40Z",
             "open_issues": 2,
             "owner": "bklaric",
             "repo": "team-tavern",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T00:43:27.748Z",
+    "last_updated": "2026-10-27T01:37:13.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
