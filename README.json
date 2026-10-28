@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T20:11:33Z",
-                "open_issues": 157,
+                "open_issues": 158,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26823,
+                "stars": 26827,
                 "topics": [
                   "bot",
                   "discord",
@@ -446,7 +446,7 @@
                 "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
-                "stars": 774,
+                "stars": 775,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
@@ -463,8 +463,8 @@
                 "id": 232168657,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-21T18:11:24Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-27T22:36:18Z",
+                "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
                 "stars": 626,
@@ -858,7 +858,7 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T01:35:44Z",
+            "last_commit": "2026-10-27T04:20:16Z",
             "open_issues": 60,
             "owner": "odota",
             "repo": "core",
@@ -891,7 +891,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1025,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:37:13.798Z",
+    "last_updated": "2026-10-28T01:43:21.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
