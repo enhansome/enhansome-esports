@@ -21,7 +21,7 @@
                 "open_issues": 158,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26827,
+                "stars": 26826,
                 "topics": [
                   "bot",
                   "discord",
@@ -52,7 +52,7 @@
                 "open_issues": 65,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1290,
+                "stars": 1291,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -410,7 +410,7 @@
                 "open_issues": 4,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1072,
+                "stars": 1073,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -443,7 +443,7 @@
                 "language": "Java",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-25T14:52:46Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "skadistats",
                 "repo": "clarity",
                 "stars": 775,
@@ -858,11 +858,11 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T04:20:16Z",
+            "last_commit": "2026-10-28T19:32:26Z",
             "open_issues": 60,
             "owner": "odota",
             "repo": "core",
-            "stars": 1637,
+            "stars": 1639,
             "topics": [
               "api",
               "data",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T01:43:21.044Z",
+    "last_updated": "2026-10-29T01:56:39.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
