@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T20:11:33Z",
-                "open_issues": 158,
+                "last_commit": "2026-10-30T00:08:22Z",
+                "open_issues": 161,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26826,
+                "stars": 26824,
                 "topics": [
                   "bot",
                   "discord",
@@ -442,8 +442,8 @@
                 "id": 15440789,
                 "language": "Java",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-25T14:52:46Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-29T10:28:37Z",
+                "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
                 "stars": 775,
@@ -467,7 +467,7 @@
                 "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 626,
+                "stars": 627,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -547,7 +547,7 @@
                 "open_issues": 6,
                 "owner": "nickbabcock",
                 "repo": "boxcars",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "rocket-league",
                   "rust",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:56:39.666Z",
+    "last_updated": "2026-10-30T02:08:39.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
