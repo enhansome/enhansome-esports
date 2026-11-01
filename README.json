@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T22:22:34Z",
-                "open_issues": 156,
+                "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26824,
+                "stars": 26826,
                 "topics": [
                   "bot",
                   "discord",
@@ -52,7 +52,7 @@
                 "open_issues": 65,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1291,
+                "stars": 1290,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -732,7 +732,7 @@
             "id": 18000918,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T20:38:16Z",
+            "last_commit": "2026-10-31T10:31:34Z",
             "open_issues": 13,
             "owner": "BNETDocs",
             "repo": "bnetdocs-web",
@@ -862,7 +862,7 @@
             "open_issues": 60,
             "owner": "odota",
             "repo": "core",
-            "stars": 1640,
+            "stars": 1641,
             "topics": [
               "api",
               "data",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:48:58.095Z",
+    "last_updated": "2026-11-01T01:28:26.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
