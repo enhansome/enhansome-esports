@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T22:22:34Z",
-                "open_issues": 157,
+                "last_commit": "2026-11-01T23:28:24Z",
+                "open_issues": 153,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26826,
+                "stars": 26828,
                 "topics": [
                   "bot",
                   "discord",
@@ -186,11 +186,11 @@
                 "id": 70483095,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T04:04:33Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-01T17:24:00Z",
+                "open_issues": 13,
                 "owner": "benweier",
                 "repo": "blizzard.js",
-                "stars": 154,
+                "stars": 153,
                 "topics": [
                   "api",
                   "battlenet",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T01:28:26.773Z",
+    "last_updated": "2026-11-02T01:49:54.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",

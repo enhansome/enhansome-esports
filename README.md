@@ -25,13 +25,13 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,826 | 🐛 157 | 🌐 TypeScript | 📅 2026-10-30 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,828 | 🐛 153 | 🌐 TypeScript | 📅 2026-11-01 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,290 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,126 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 578 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
 * [HLTV](https://github.com/gigobyte/HLTV) ⭐ 496 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
 * [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 257 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
-* [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 154 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-30 - A Node.js library for interacting with the Blizzard Community Platform API.
+* [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 153 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-01 - A Node.js library for interacting with the Blizzard Community Platform API.
 * [valorant.js](https://github.com/liamcottle/valorant.js) ⭐ 111 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-16 - A Node.js library for interacting with the VALORANT APIs used in game.
 * [liquipediapy](https://github.com/c00kie17/liquipediapy) ⭐ 70 | 🐛 7 | 🌐 Python | 📅 2026-04-27 - A Python library for interacting with the Liquipedia API.
 * [esportsodds-python](https://github.com/esportsodds/esportsodds-python) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-30 - A Python client library and MCP server for the esportsodds.gg CS2 data API.
@@ -106,4 +106,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
