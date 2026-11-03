@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-01T23:28:24Z",
-                "open_issues": 153,
+                "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
                 "stars": 26828,
@@ -280,7 +280,7 @@
                 "id": 1410235395,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-30T17:56:04Z",
+                "last_commit": "2026-11-02T19:30:27Z",
                 "open_issues": 0,
                 "owner": "esportsodds",
                 "repo": "esportsodds-python",
@@ -407,7 +407,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-24T09:20:55Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
                 "stars": 1074,
@@ -715,7 +715,7 @@
             "open_issues": 15,
             "owner": "Pupix",
             "repo": "rift-explorer",
-            "stars": 566,
+            "stars": 565,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -732,7 +732,7 @@
             "id": 18000918,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T10:31:34Z",
+            "last_commit": "2026-11-02T13:48:24Z",
             "open_issues": 13,
             "owner": "BNETDocs",
             "repo": "bnetdocs-web",
@@ -836,7 +836,7 @@
             "open_issues": 4,
             "owner": "boltgolt",
             "repo": "boltobserv",
-            "stars": 388,
+            "stars": 390,
             "topics": [
               "cs2",
               "csgo",
@@ -859,7 +859,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-30T02:57:36Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "odota",
             "repo": "core",
             "stars": 1641,
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:49:54.173Z",
+    "last_updated": "2026-11-03T03:42:04.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",

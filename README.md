@@ -25,7 +25,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,828 | 🐛 153 | 🌐 TypeScript | 📅 2026-11-01 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,828 | 🐛 157 | 🌐 TypeScript | 📅 2026-11-01 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,290 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,126 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 578 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
@@ -34,7 +34,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 * [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 153 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-01 - A Node.js library for interacting with the Blizzard Community Platform API.
 * [valorant.js](https://github.com/liamcottle/valorant.js) ⭐ 111 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-16 - A Node.js library for interacting with the VALORANT APIs used in game.
 * [liquipediapy](https://github.com/c00kie17/liquipediapy) ⭐ 70 | 🐛 7 | 🌐 Python | 📅 2026-04-27 - A Python library for interacting with the Liquipedia API.
-* [esportsodds-python](https://github.com/esportsodds/esportsodds-python) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-30 - A Python client library and MCP server for the esportsodds.gg CS2 data API.
+* [esportsodds-python](https://github.com/esportsodds/esportsodds-python) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - A Python client library and MCP server for the esportsodds.gg CS2 data API.
 * SteamID - A library for manipulating Steam IDs.
   * [Node.js](https://github.com/DoctorMcKay/node-steamid) ⭐ 74 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-20
   * [PHP](https://github.com/DoctorMcKay/php-steamid) ⭐ 11 | 🐛 0 | 🌐 PHP | 📅 2021-09-10
@@ -45,7 +45,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Data parsing and analysis
 
-* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,074 | 🐛 4 | 🌐 Go | 📅 2026-10-24 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,074 | 🐛 6 | 🌐 Go | 📅 2026-10-24 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 775 | 🐛 10 | 🌐 Java | 📅 2026-10-29 - A Java library for parsing CS:GO and Dota 2 replays.
 * [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 627 | 🐛 5 | 🌐 Rust | 📅 2026-10-27 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 581 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
@@ -72,8 +72,8 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 > Community-maintained documentation of editor APIs.
 
 * [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) ⭐ 596 | 🐛 10 | 🌐 TypeScript | 📅 2024-04-20 - An automatically generated documentation of Valorant internal API.
-* [Rift Explorer](https://github.com/Pupix/rift-explorer) ⭐ 566 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - An automatically generated documentation of Riot Games LCU API.
-* [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) ⭐ 36 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-31 - A documentation and discussion website for Blizzard and Battle.net protocols.
+* [Rift Explorer](https://github.com/Pupix/rift-explorer) ⭐ 565 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - An automatically generated documentation of Riot Games LCU API.
+* [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) ⭐ 36 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-02 - A documentation and discussion website for Blizzard and Battle.net protocols.
 
 ## Applications & Tools
 
@@ -84,11 +84,11 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Counter-Strike: Global Offensive**
 
-* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 388 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
+* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 390 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
 
 **Dota 2**
 
-* [Open Dota](https://github.com/odota/core) ⭐ 1,641 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-30 - A website for Dota 2 esports stats.
+* [Open Dota](https://github.com/odota/core) ⭐ 1,641 | 🐛 61 | 🌐 TypeScript | 📅 2026-10-30 - A website for Dota 2 esports stats.
 
 **League of Legends**
 
@@ -106,4 +106,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
