@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T23:28:24Z",
+                "last_commit": "2026-11-03T23:08:08Z",
                 "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26828,
+                "stars": 26827,
                 "topics": [
                   "bot",
                   "discord",
@@ -805,7 +805,7 @@
             "id": 155263350,
             "language": "PureScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T20:02:40Z",
+            "last_commit": "2026-11-03T20:18:59Z",
             "open_issues": 2,
             "owner": "bklaric",
             "repo": "team-tavern",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:42:04.414Z",
+    "last_updated": "2026-11-04T02:42:06.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",

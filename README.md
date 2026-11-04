@@ -25,7 +25,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,828 | 🐛 157 | 🌐 TypeScript | 📅 2026-11-01 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,827 | 🐛 157 | 🌐 TypeScript | 📅 2026-11-03 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,290 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,126 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 578 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
@@ -80,7 +80,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 > Applications and general-purpose tooling.
 
 * [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) ⭐ 32 | 🐛 9 | 📅 2024-10-05 - A database of Esports teams logos.
-* [TeamTavern](https://github.com/bklaric/team-tavern) ⭐ 13 | 🐛 2 | 🌐 PureScript | 📅 2026-10-26 - A website for finding players, groups and communities to play with.
+* [TeamTavern](https://github.com/bklaric/team-tavern) ⭐ 13 | 🐛 2 | 🌐 PureScript | 📅 2026-11-03 - A website for finding players, groups and communities to play with.
 
 **Counter-Strike: Global Offensive**
 
@@ -106,4 +106,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
