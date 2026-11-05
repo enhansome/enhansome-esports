@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T23:08:08Z",
-                "open_issues": 157,
+                "last_commit": "2026-11-04T20:34:58Z",
+                "open_issues": 161,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26827,
+                "stars": 26829,
                 "topics": [
                   "bot",
                   "discord",
@@ -114,7 +114,7 @@
                 "open_issues": 49,
                 "owner": "DoctorMcKay",
                 "repo": "node-steamcommunity",
-                "stars": 578,
+                "stars": 579,
                 "topics": [
                   "javascript",
                   "node",
@@ -732,7 +732,7 @@
             "id": 18000918,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T13:48:24Z",
+            "last_commit": "2026-11-04T09:40:07Z",
             "open_issues": 13,
             "owner": "BNETDocs",
             "repo": "bnetdocs-web",
@@ -862,7 +862,7 @@
             "open_issues": 61,
             "owner": "odota",
             "repo": "core",
-            "stars": 1641,
+            "stars": 1642,
             "topics": [
               "api",
               "data",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:42:06.659Z",
+    "last_updated": "2026-11-05T02:47:50.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
