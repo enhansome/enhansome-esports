@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T20:34:58Z",
-                "open_issues": 161,
+                "last_commit": "2026-11-05T09:50:25Z",
+                "open_issues": 155,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26829,
+                "stars": 26830,
                 "topics": [
                   "bot",
                   "discord",
@@ -140,7 +140,7 @@
                 "open_issues": 15,
                 "owner": "gigobyte",
                 "repo": "HLTV",
-                "stars": 496,
+                "stars": 497,
                 "topics": [
                   "hltv",
                   "parser",
@@ -496,7 +496,7 @@
                 "open_issues": 17,
                 "owner": "meraki-analytics",
                 "repo": "cassiopeia",
-                "stars": 581,
+                "stars": 582,
                 "topics": [
                   "api",
                   "champion-gg-api",
@@ -732,7 +732,7 @@
             "id": 18000918,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-04T09:40:07Z",
+            "last_commit": "2026-11-05T08:42:14Z",
             "open_issues": 13,
             "owner": "BNETDocs",
             "repo": "bnetdocs-web",
@@ -805,7 +805,7 @@
             "id": 155263350,
             "language": "PureScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-03T20:18:59Z",
+            "last_commit": "2026-11-05T19:05:49Z",
             "open_issues": 2,
             "owner": "bklaric",
             "repo": "team-tavern",
@@ -836,7 +836,7 @@
             "open_issues": 4,
             "owner": "boltgolt",
             "repo": "boltobserv",
-            "stars": 390,
+            "stars": 389,
             "topics": [
               "cs2",
               "csgo",
@@ -891,7 +891,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1026,
+            "stars": 1025,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:47:50.894Z",
+    "last_updated": "2026-11-06T02:49:36.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",

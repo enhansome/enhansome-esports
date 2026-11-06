@@ -25,11 +25,11 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,829 | 🐛 161 | 🌐 TypeScript | 📅 2026-11-04 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,830 | 🐛 155 | 🌐 TypeScript | 📅 2026-11-05 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,290 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,126 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 579 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
-* [HLTV](https://github.com/gigobyte/HLTV) ⭐ 496 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
+* [HLTV](https://github.com/gigobyte/HLTV) ⭐ 497 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
 * [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 257 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
 * [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 153 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-01 - A Node.js library for interacting with the Blizzard Community Platform API.
 * [valorant.js](https://github.com/liamcottle/valorant.js) ⭐ 111 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-16 - A Node.js library for interacting with the VALORANT APIs used in game.
@@ -48,7 +48,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 * [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,074 | 🐛 6 | 🌐 Go | 📅 2026-10-24 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 775 | 🐛 10 | 🌐 Java | 📅 2026-10-29 - A Java library for parsing CS:GO and Dota 2 replays.
 * [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 627 | 🐛 5 | 🌐 Rust | 📅 2026-10-27 - A Python library for parsing, analyzing, and visualizing CS:GO data.
-* [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 581 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
+* [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 582 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 * [Rattletrap](https://github.com/tfausak/rattletrap) ⚠️ Archived - A Haskell library for parsing and generating Rocket League replays.
 * [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 153 | 🐛 6 | 🌐 Rust | 📅 2026-10-19 - A Rust library for parsing Rocket League replays.
 
@@ -73,18 +73,18 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 * [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) ⭐ 596 | 🐛 10 | 🌐 TypeScript | 📅 2024-04-20 - An automatically generated documentation of Valorant internal API.
 * [Rift Explorer](https://github.com/Pupix/rift-explorer) ⭐ 565 | 🐛 15 | 🌐 CSS | 📅 2023-03-03 - An automatically generated documentation of Riot Games LCU API.
-* [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) ⭐ 36 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-04 - A documentation and discussion website for Blizzard and Battle.net protocols.
+* [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) ⭐ 36 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-05 - A documentation and discussion website for Blizzard and Battle.net protocols.
 
 ## Applications & Tools
 
 > Applications and general-purpose tooling.
 
 * [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) ⭐ 32 | 🐛 9 | 📅 2024-10-05 - A database of Esports teams logos.
-* [TeamTavern](https://github.com/bklaric/team-tavern) ⭐ 13 | 🐛 2 | 🌐 PureScript | 📅 2026-11-03 - A website for finding players, groups and communities to play with.
+* [TeamTavern](https://github.com/bklaric/team-tavern) ⭐ 13 | 🐛 2 | 🌐 PureScript | 📅 2026-11-05 - A website for finding players, groups and communities to play with.
 
 **Counter-Strike: Global Offensive**
 
-* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 390 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
+* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 389 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
 
 **Dota 2**
 
@@ -92,7 +92,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **League of Legends**
 
-* [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,026 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
+* [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,025 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
 * [LeagueStats](https://github.com/vkaelin/LeagueStats) ⭐ 496 | 🐛 14 | 🌐 Vue | 📅 2026-07-17 - A website for League of Legends summoners' stats.
 * [Foldy Sheet](https://github.com/chhopsky/foldysheet) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2023-07-20 - A Python script to determine whether teams can make playoffs or not.
 
@@ -106,4 +106,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
