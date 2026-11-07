@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T09:50:25Z",
-                "open_issues": 155,
+                "last_commit": "2026-11-06T16:38:38Z",
+                "open_issues": 154,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26830,
+                "stars": 26826,
                 "topics": [
                   "bot",
                   "discord",
@@ -52,7 +52,7 @@
                 "open_issues": 65,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1290,
+                "stars": 1289,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1126,
+                "stars": 1125,
                 "topics": [
                   "javascript",
                   "node",
@@ -114,7 +114,7 @@
                 "open_issues": 49,
                 "owner": "DoctorMcKay",
                 "repo": "node-steamcommunity",
-                "stars": 579,
+                "stars": 578,
                 "topics": [
                   "javascript",
                   "node",
@@ -544,7 +544,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-19T13:19:07Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "nickbabcock",
                 "repo": "boxcars",
                 "stars": 153,
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T02:49:36.716Z",
+    "last_updated": "2026-11-07T02:21:58.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
