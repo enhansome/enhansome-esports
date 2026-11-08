@@ -25,7 +25,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,826 | 🐛 154 | 🌐 TypeScript | 📅 2026-11-06 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,825 | 🐛 155 | 🌐 TypeScript | 📅 2026-11-06 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,289 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,125 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 578 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
@@ -45,7 +45,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Data parsing and analysis
 
-* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,074 | 🐛 6 | 🌐 Go | 📅 2026-10-24 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,075 | 🐛 6 | 🌐 Go | 📅 2026-10-24 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 775 | 🐛 10 | 🌐 Java | 📅 2026-10-29 - A Java library for parsing CS:GO and Dota 2 replays.
 * [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 627 | 🐛 5 | 🌐 Rust | 📅 2026-10-27 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 582 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
@@ -88,7 +88,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Dota 2**
 
-* [Open Dota](https://github.com/odota/core) ⭐ 1,642 | 🐛 61 | 🌐 TypeScript | 📅 2026-10-30 - A website for Dota 2 esports stats.
+* [Open Dota](https://github.com/odota/core) ⭐ 1,642 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-08 - A website for Dota 2 esports stats.
 
 **League of Legends**
 
@@ -106,4 +106,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
