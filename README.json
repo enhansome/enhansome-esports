@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T16:38:38Z",
-                "open_issues": 155,
+                "open_issues": 156,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26825,
+                "stars": 26826,
                 "topics": [
                   "bot",
                   "discord",
@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1125,
+                "stars": 1126,
                 "topics": [
                   "javascript",
                   "node",
@@ -406,11 +406,11 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-24T09:20:55Z",
+                "last_commit": "2026-11-09T00:08:36Z",
                 "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1075,
+                "stars": 1076,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -463,11 +463,11 @@
                 "id": 232168657,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-27T22:36:18Z",
+                "last_commit": "2026-11-09T01:48:21Z",
                 "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -644,7 +644,7 @@
                 "open_issues": 6,
                 "owner": "Drarig29",
                 "repo": "brackets-viewer.js",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "bracket",
                   "elimination",
@@ -858,8 +858,8 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T01:48:53Z",
-            "open_issues": 60,
+            "last_commit": "2026-11-08T05:30:37Z",
+            "open_issues": 59,
             "owner": "odota",
             "repo": "core",
             "stars": 1642,
@@ -891,7 +891,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1025,
+            "stars": 1026,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:50:14.629Z",
+    "last_updated": "2026-11-09T01:58:41.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
