@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T16:38:38Z",
-                "open_issues": 156,
+                "open_issues": 155,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26826,
+                "stars": 26829,
                 "topics": [
                   "bot",
                   "discord",
@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1126,
+                "stars": 1125,
                 "topics": [
                   "javascript",
                   "node",
@@ -190,7 +190,7 @@
                 "open_issues": 13,
                 "owner": "benweier",
                 "repo": "blizzard.js",
-                "stars": 153,
+                "stars": 154,
                 "topics": [
                   "api",
                   "battlenet",
@@ -467,7 +467,7 @@
                 "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 628,
+                "stars": 630,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:58:41.192Z",
+    "last_updated": "2026-11-10T04:19:24.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
