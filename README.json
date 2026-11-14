@@ -21,7 +21,7 @@
                 "open_issues": 156,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26835,
+                "stars": 26834,
                 "topics": [
                   "bot",
                   "discord",
@@ -406,7 +406,7 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-12T17:29:07Z",
+                "last_commit": "2026-11-13T23:15:16Z",
                 "open_issues": 7,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
@@ -859,7 +859,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-11T02:01:05Z",
-            "open_issues": 61,
+            "open_issues": 65,
             "owner": "odota",
             "repo": "core",
             "stars": 1642,
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:54:44.572Z",
+    "last_updated": "2026-11-14T02:41:24.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
