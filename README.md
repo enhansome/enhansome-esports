@@ -25,7 +25,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,835 | 🐛 156 | 🌐 TypeScript | 📅 2026-11-10 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,836 | 🐛 155 | 🌐 TypeScript | 📅 2026-11-16 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,290 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,125 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 579 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
@@ -45,12 +45,12 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Data parsing and analysis
 
-* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,074 | 🐛 6 | 🌐 Go | 📅 2026-11-13 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+* [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,077 | 🐛 6 | 🌐 Go | 📅 2026-11-13 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 776 | 🐛 10 | 🌐 Java | 📅 2026-10-29 - A Java library for parsing CS:GO and Dota 2 replays.
 * [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 638 | 🐛 5 | 🌐 Rust | 📅 2026-11-12 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 583 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 * [Rattletrap](https://github.com/tfausak/rattletrap) ⚠️ Archived - A Haskell library for parsing and generating Rocket League replays.
-* [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 153 | 🐛 7 | 🌐 Rust | 📅 2026-10-19 - A Rust library for parsing Rocket League replays.
+* [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 153 | 🐛 6 | 🌐 Rust | 📅 2026-11-15 - A Rust library for parsing Rocket League replays.
 
 ### Team management
 
@@ -58,8 +58,8 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### Tournaments management
 
-* [brackets-manager.js](https://github.com/Drarig29/brackets-manager.js) ⭐ 334 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-20 - A JavaScript library to manage tournament brackets.
-* [brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) ⭐ 232 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-19 - A JavaScript library to display tournament brackets.
+* [brackets-manager.js](https://github.com/Drarig29/brackets-manager.js) ⭐ 333 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-20 - A JavaScript library to manage tournament brackets.
+* [brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) ⭐ 231 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-19 - A JavaScript library to display tournament brackets.
 
 ## Developer tools
 
@@ -84,7 +84,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Counter-Strike: Global Offensive**
 
-* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 389 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
+* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 388 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
 
 **Dota 2**
 
@@ -92,7 +92,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **League of Legends**
 
-* [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,026 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
+* [LeagueDirector](https://github.com/RiotGames/leaguedirector) ⭐ 1,025 | 🐛 41 | 🌐 Python | 📅 2026-01-08 - A desktop application for staging and recording videos from League of Legends replays.
 * [LeagueStats](https://github.com/vkaelin/LeagueStats) ⭐ 497 | 🐛 14 | 🌐 Vue | 📅 2026-07-17 - A website for League of Legends summoners' stats.
 * [Foldy Sheet](https://github.com/chhopsky/foldysheet) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2023-07-20 - A Python script to determine whether teams can make playoffs or not.
 
@@ -106,4 +106,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

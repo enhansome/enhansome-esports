@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T19:11:34Z",
-                "open_issues": 156,
+                "last_commit": "2026-11-16T00:04:16Z",
+                "open_issues": 155,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26835,
+                "stars": 26836,
                 "topics": [
                   "bot",
                   "discord",
@@ -410,7 +410,7 @@
                 "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1074,
+                "stars": 1077,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -543,8 +543,8 @@
                 "id": 68257211,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-19T13:19:07Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-15T17:25:21Z",
+                "open_issues": 6,
                 "owner": "nickbabcock",
                 "repo": "boxcars",
                 "stars": 153,
@@ -607,7 +607,7 @@
                 "open_issues": 6,
                 "owner": "Drarig29",
                 "repo": "brackets-manager.js",
-                "stars": 334,
+                "stars": 333,
                 "topics": [
                   "bracket",
                   "elimination",
@@ -644,7 +644,7 @@
                 "open_issues": 6,
                 "owner": "Drarig29",
                 "repo": "brackets-viewer.js",
-                "stars": 232,
+                "stars": 231,
                 "topics": [
                   "bracket",
                   "elimination",
@@ -836,7 +836,7 @@
             "open_issues": 4,
             "owner": "boltgolt",
             "repo": "boltobserv",
-            "stars": 389,
+            "stars": 388,
             "topics": [
               "cs2",
               "csgo",
@@ -858,7 +858,7 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-15T00:34:14Z",
+            "last_commit": "2026-11-15T22:26:40Z",
             "open_issues": 65,
             "owner": "odota",
             "repo": "core",
@@ -891,7 +891,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1026,
+            "stars": 1025,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:07:40.620Z",
+    "last_updated": "2026-11-16T02:23:26.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
