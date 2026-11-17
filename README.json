@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T00:04:16Z",
-                "open_issues": 155,
+                "last_commit": "2026-11-16T23:22:02Z",
+                "open_issues": 156,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26836,
+                "stars": 26838,
                 "topics": [
                   "bot",
                   "discord",
@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1125,
+                "stars": 1127,
                 "topics": [
                   "javascript",
                   "node",
@@ -547,7 +547,7 @@
                 "open_issues": 6,
                 "owner": "nickbabcock",
                 "repo": "boxcars",
-                "stars": 153,
+                "stars": 154,
                 "topics": [
                   "rocket-league",
                   "rust",
@@ -805,7 +805,7 @@
             "id": 155263350,
             "language": "PureScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-05T19:05:49Z",
+            "last_commit": "2026-11-16T12:40:40Z",
             "open_issues": 2,
             "owner": "bklaric",
             "repo": "team-tavern",
@@ -836,7 +836,7 @@
             "open_issues": 4,
             "owner": "boltgolt",
             "repo": "boltobserv",
-            "stars": 388,
+            "stars": 389,
             "topics": [
               "cs2",
               "csgo",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:23:26.861Z",
+    "last_updated": "2026-11-17T04:46:36.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
