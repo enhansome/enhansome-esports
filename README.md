@@ -25,7 +25,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,838 | 🐛 156 | 🌐 TypeScript | 📅 2026-11-16 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,838 | 🐛 157 | 🌐 TypeScript | 📅 2026-11-17 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,290 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,127 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 579 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
@@ -84,7 +84,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 **Counter-Strike: Global Offensive**
 
-* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 389 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
+* [Boltobserv](https://github.com/boltgolt/boltobserv) ⭐ 388 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-15 - An external Counter-Strike: Global Offensive radar for observers.
 
 **Dota 2**
 
@@ -106,4 +106,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

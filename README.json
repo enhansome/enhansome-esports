@@ -17,8 +17,8 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T23:22:02Z",
-                "open_issues": 156,
+                "last_commit": "2026-11-17T17:33:41Z",
+                "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
                 "stars": 26838,
@@ -836,7 +836,7 @@
             "open_issues": 4,
             "owner": "boltgolt",
             "repo": "boltobserv",
-            "stars": 389,
+            "stars": 388,
             "topics": [
               "cs2",
               "csgo",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:46:36.968Z",
+    "last_updated": "2026-11-18T03:52:02.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
