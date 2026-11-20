@@ -21,7 +21,7 @@
                 "open_issues": 157,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26838,
+                "stars": 26839,
                 "topics": [
                   "bot",
                   "discord",
@@ -52,7 +52,7 @@
                 "open_issues": 65,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1289,
+                "stars": 1288,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -86,7 +86,7 @@
                 "open_issues": 65,
                 "owner": "DoctorMcKay",
                 "repo": "node-steam-user",
-                "stars": 1127,
+                "stars": 1126,
                 "topics": [
                   "javascript",
                   "node",
@@ -114,7 +114,7 @@
                 "open_issues": 49,
                 "owner": "DoctorMcKay",
                 "repo": "node-steamcommunity",
-                "stars": 579,
+                "stars": 578,
                 "topics": [
                   "javascript",
                   "node",
@@ -410,7 +410,7 @@
                 "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1078,
+                "stars": 1077,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -446,7 +446,7 @@
                 "open_issues": 10,
                 "owner": "skadistats",
                 "repo": "clarity",
-                "stars": 776,
+                "stars": 775,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:22.022Z"
@@ -467,7 +467,7 @@
                 "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 639,
+                "stars": 638,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -496,7 +496,7 @@
                 "open_issues": 17,
                 "owner": "meraki-analytics",
                 "repo": "cassiopeia",
-                "stars": 583,
+                "stars": 582,
                 "topics": [
                   "api",
                   "champion-gg-api",
@@ -607,7 +607,7 @@
                 "open_issues": 6,
                 "owner": "Drarig29",
                 "repo": "brackets-manager.js",
-                "stars": 333,
+                "stars": 332,
                 "topics": [
                   "bracket",
                   "elimination",
@@ -858,11 +858,11 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T03:48:17Z",
+            "last_commit": "2026-11-20T01:17:06Z",
             "open_issues": 66,
             "owner": "odota",
             "repo": "core",
-            "stars": 1642,
+            "stars": 1640,
             "topics": [
               "api",
               "data",
@@ -912,7 +912,7 @@
             "open_issues": 14,
             "owner": "vkaelin",
             "repo": "LeagueStats",
-            "stars": 497,
+            "stars": 495,
             "topics": [
               "adonisjs",
               "hacktoberfest",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:51:07.979Z",
+    "last_updated": "2026-11-20T03:43:59.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
@@ -966,7 +966,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-20T02:33:33Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "Strift",
       "repo": "awesome-esports",
       "stars": 108,
