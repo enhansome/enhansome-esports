@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T17:33:41Z",
-                "open_issues": 157,
+                "last_commit": "2026-11-20T11:59:53Z",
+                "open_issues": 155,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26839,
+                "stars": 26841,
                 "topics": [
                   "bot",
                   "discord",
@@ -410,7 +410,7 @@
                 "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1077,
+                "stars": 1078,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -464,7 +464,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-11-12T05:30:34Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
                 "stars": 638,
@@ -858,8 +858,8 @@
             "id": 23482820,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T01:17:06Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-21T02:59:09Z",
+            "open_issues": 67,
             "owner": "odota",
             "repo": "core",
             "stars": 1640,
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T03:43:59.333Z",
+    "last_updated": "2026-11-21T03:29:27.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
