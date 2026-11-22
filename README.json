@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T11:59:53Z",
-                "open_issues": 155,
+                "last_commit": "2026-11-21T23:50:25Z",
+                "open_issues": 143,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26841,
+                "stars": 26843,
                 "topics": [
                   "bot",
                   "discord",
@@ -52,7 +52,7 @@
                 "open_issues": 65,
                 "owner": "ValvePython",
                 "repo": "steam",
-                "stars": 1288,
+                "stars": 1287,
                 "topics": [
                   "authentication",
                   "authenticator",
@@ -406,11 +406,11 @@
                 "id": 83524521,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-13T23:15:16Z",
+                "last_commit": "2026-11-21T13:11:54Z",
                 "open_issues": 6,
                 "owner": "markus-wa",
                 "repo": "demoinfocs-golang",
-                "stars": 1078,
+                "stars": 1077,
                 "topics": [
                   "counter-strike",
                   "counter-strike-2",
@@ -467,7 +467,7 @@
                 "open_issues": 7,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 638,
+                "stars": 637,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -496,7 +496,7 @@
                 "open_issues": 17,
                 "owner": "meraki-analytics",
                 "repo": "cassiopeia",
-                "stars": 582,
+                "stars": 581,
                 "topics": [
                   "api",
                   "champion-gg-api",
@@ -692,7 +692,7 @@
             "open_issues": 10,
             "owner": "techchrism",
             "repo": "valorant-api-docs",
-            "stars": 596,
+            "stars": 597,
             "topics": [
               "valorant"
             ]
@@ -859,7 +859,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-21T02:59:09Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "odota",
             "repo": "core",
             "stars": 1640,
@@ -891,7 +891,7 @@
             "open_issues": 41,
             "owner": "RiotGames",
             "repo": "leaguedirector",
-            "stars": 1027,
+            "stars": 1028,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:22.022Z"
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:29:27.257Z",
+    "last_updated": "2026-11-22T02:39:21.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
