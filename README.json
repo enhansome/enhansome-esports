@@ -17,11 +17,11 @@
                 "id": 40484398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T22:03:46Z",
-                "open_issues": 124,
+                "last_commit": "2026-11-24T16:21:52Z",
+                "open_issues": 126,
                 "owner": "discordjs",
                 "repo": "discord.js",
-                "stars": 26837,
+                "stars": 26833,
                 "topics": [
                   "bot",
                   "discord",
@@ -221,7 +221,7 @@
                 "open_issues": 1,
                 "owner": "liamcottle",
                 "repo": "valorant.js",
-                "stars": 111,
+                "stars": 110,
                 "topics": [
                   "api",
                   "competitive",
@@ -467,7 +467,7 @@
                 "open_issues": 5,
                 "owner": "pnxenopoulos",
                 "repo": "awpy",
-                "stars": 638,
+                "stars": 640,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -547,7 +547,7 @@
                 "open_issues": 6,
                 "owner": "nickbabcock",
                 "repo": "boxcars",
-                "stars": 154,
+                "stars": 155,
                 "topics": [
                   "rocket-league",
                   "rust",
@@ -778,11 +778,11 @@
             "id": 1265640651,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-23T19:21:15Z",
-            "open_issues": 90,
+            "last_commit": "2026-11-24T22:45:42Z",
+            "open_issues": 96,
             "owner": "ColinGPT9",
             "repo": "clips-studio",
-            "stars": 635,
+            "stars": 661,
             "topics": [
               "clips",
               "content-automation",
@@ -824,7 +824,7 @@
             "open_issues": 9,
             "owner": "lootmarket",
             "repo": "esport-team-logos",
-            "stars": 32,
+            "stars": 31,
             "topics": [
               "esports",
               "images",
@@ -999,7 +999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:24:36.316Z",
+    "last_updated": "2026-11-25T05:01:47.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open-source projects related to esports.",
@@ -1011,7 +1011,7 @@
       "open_issues": 3,
       "owner": "Strift",
       "repo": "awesome-esports",
-      "stars": 108,
+      "stars": 107,
       "topics": [
         "awesome",
         "awesome-list",

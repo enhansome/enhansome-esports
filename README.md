@@ -25,14 +25,14 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 ### APIs & Web Services
 
-* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,837 | 🐛 124 | 🌐 TypeScript | 📅 2026-11-23 - A Node.js library for interacting with the Discord API.
+* [Discord.js](https://github.com/discordjs/discord.js) ⭐ 26,833 | 🐛 126 | 🌐 TypeScript | 📅 2026-11-24 - A Node.js library for interacting with the Discord API.
 * [steam](https://github.com/ValvePython/steam/) ⭐ 1,287 | 🐛 65 | 🌐 Python | 📅 2026-06-23 - A Python library for interacting with various parts of Steam.
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user) ⭐ 1,126 | 🐛 65 | 🌐 JavaScript | 📅 2025-12-04 - A Node.js library for interacting with the Steam network via the Steam client protocol.
 * [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) ⭐ 578 | 🐛 49 | 🌐 JavaScript | 📅 2026-07-13 - A Node.js library for interacting with the Steam Community website.
 * [HLTV](https://github.com/gigobyte/HLTV) ⭐ 496 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-03 - A Node.js library for interacting with the HLTV API.
 * [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) ⭐ 257 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-15 - A Node.js library for generating Steam-style 2FA codes.
 * [Blizzard.js](https://github.com/benweier/blizzard.js) ⭐ 154 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-01 - A Node.js library for interacting with the Blizzard Community Platform API.
-* [valorant.js](https://github.com/liamcottle/valorant.js) ⭐ 111 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-16 - A Node.js library for interacting with the VALORANT APIs used in game.
+* [valorant.js](https://github.com/liamcottle/valorant.js) ⭐ 110 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-16 - A Node.js library for interacting with the VALORANT APIs used in game.
 * [liquipediapy](https://github.com/c00kie17/liquipediapy) ⭐ 71 | 🐛 7 | 🌐 Python | 📅 2026-04-27 - A Python library for interacting with the Liquipedia API.
 * [esportsodds-python](https://github.com/esportsodds/esportsodds-python) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - A Python client library and MCP server for the esportsodds.gg CS2 data API.
 * SteamID - A library for manipulating Steam IDs.
@@ -47,10 +47,10 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 * [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) ⭐ 1,077 | 🐛 6 | 🌐 Go | 📅 2026-11-23 - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 * [Clarity](https://github.com/skadistats/clarity) ⭐ 775 | 🐛 10 | 🌐 Java | 📅 2026-10-29 - A Java library for parsing CS:GO and Dota 2 replays.
-* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 638 | 🐛 5 | 🌐 Rust | 📅 2026-11-22 - A Python library for parsing, analyzing, and visualizing CS:GO data.
+* [awpy](https://github.com/pnxenopoulos/awpy) ⭐ 640 | 🐛 5 | 🌐 Rust | 📅 2026-11-22 - A Python library for parsing, analyzing, and visualizing CS:GO data.
 * [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) ⭐ 581 | 🐛 17 | 🌐 Python | 📅 2026-02-05 - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 * [Rattletrap](https://github.com/tfausak/rattletrap) ⚠️ Archived - A Haskell library for parsing and generating Rocket League replays.
-* [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 154 | 🐛 6 | 🌐 Rust | 📅 2026-11-15 - A Rust library for parsing Rocket League replays.
+* [Boxcars](https://github.com/nickbabcock/boxcars) ⭐ 155 | 🐛 6 | 🌐 Rust | 📅 2026-11-15 - A Rust library for parsing Rocket League replays.
 
 ### Team management
 
@@ -79,8 +79,8 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 > Applications and general-purpose tooling.
 
-* [Clips Kitty](https://github.com/ColinGPT9/clips-studio) ⭐ 635 | 🐛 90 | 🌐 Python | 📅 2026-11-23 - A Windows app that turns esports and gaming stream VODs from Twitch, Kick and YouTube into captioned vertical highlight clips.
-* [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) ⭐ 32 | 🐛 9 | 📅 2024-10-05 - A database of Esports teams logos.
+* [Clips Kitty](https://github.com/ColinGPT9/clips-studio) ⭐ 661 | 🐛 96 | 🌐 Python | 📅 2026-11-24 - A Windows app that turns esports and gaming stream VODs from Twitch, Kick and YouTube into captioned vertical highlight clips.
+* [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) ⭐ 31 | 🐛 9 | 📅 2024-10-05 - A database of Esports teams logos.
 * [TeamTavern](https://github.com/bklaric/team-tavern) ⭐ 13 | 🐛 2 | 🌐 PureScript | 📅 2026-11-16 - A website for finding players, groups and communities to play with.
 
 **Counter-Strike: Global Offensive**
@@ -107,4 +107,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
